@@ -6,23 +6,18 @@ from core.video import VideoThread
 def main():
     app = QApplication(sys.argv)
     
-    # 1. Setup UI
     window = MainWindow()
     window.show()
     
-    # 2. Setup Camera Thread
-    # Note: If you have multiple cameras, change index 0 to 1
-    thread = VideoThread(camera_index=0)
+    thread = VideoThread()
     
-    # 3. Connect Signals
-    # When the thread gets a new frame, send it to the window
+    # Connect Image Signal
     thread.change_pixmap_signal.connect(window.update_image)
     
-    # 4. Start Thread
-    thread.start()
+    # Connect Debug Text Signal (NEW)
+    thread.debug_info_signal.connect(window.update_debug_text)
     
-    # 5. Handle Exit
-    # We need to make sure the thread stops when we close the window
+    thread.start()
     app.aboutToQuit.connect(thread.stop)
     
     sys.exit(app.exec())

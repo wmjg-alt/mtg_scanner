@@ -2,5 +2,4 @@ opencv-python
 ultralytics
 PySide6
 numpy
-torch
-torchvision
+requests

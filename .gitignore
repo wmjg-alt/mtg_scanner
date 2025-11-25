@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.idea/
+.vscode/
+
+# Database
+*.db
+*.sqlite3
+
+# Heavy local models
+*.pt
+*.onnx
+data/models/*.pt
+
+# Local Media
+*.jpg
+*.png
+*.mp4

@@ -1,5 +1,13 @@
+# --- PyTorch with CUDA 13 ---
+--index-url https://download.pytorch.org/whl/cu130
+torch
+torchvision
+
+# --- Project Dependencies ---
 opencv-python
 ultralytics
 PySide6
 numpy
 requests
+easyocr
+scipy

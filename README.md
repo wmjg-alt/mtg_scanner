@@ -13,7 +13,21 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 2. Activate it.
 3. Install requirements: `pip install -r requirements.txt`
 
-## Current Status: Phase 4
+## Current Status: Phase 5
+
+### Phase 5: Image Processing & OCR (Completed)
+- **Smart Tranform (`core/image_processor.py`):** 
+    - Extracts card from YOLO box.
+    - Uses contour detection to find card corners.
+    - Automatically detects Aspect Ratio (Portrait vs Landscape) to prevent smearing.
+    - Performs perspective transform to flatten the image.
+- **Smart OCR (`services/ocr_service.py`):**
+    - Uses EasyOCR (GPU-accelerated) to read card titles.
+    - **Orientation Logic:** Automatically checks 4 orientations (Upright, Inverted, 90° CW, 90° CCW).
+    - **Scoring System:** Selects the best text based on Letter Density (Letters * Confidence) to distinguish Titles from Stats.
+    - Returns the corrected, upright image for archival.
+- **Testing:**
+    - `test_phase5.py`: Maps YOLO labels to original 4K images to verify pipeline without "Thumbnail Blur".
 
 ### Phase 4: Custom Model Training (COMPLETE)
 - Created `tools/capture_data.py` to harvest training images.
@@ -52,3 +66,9 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 - Project structure established.
 - Core modules defined.
 
+### GPU Setup Potential Issue (Error Encountered)
+If you see `NotImplementedError: torchvision::nms`, it means your PyTorch and Torchvision versions are mismatched (one is CPU, one is GPU).
+
+To fix this, force a reinstall of the CUDA-enabled versions:
+```bash
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130 --force-reinstall

@@ -20,6 +20,9 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 - **Goal:** Train a custom YOLOv8 model on specific MTG card data.
 - **Why:** Generic model required 3% confidence and NMS hacks. Custom model should allow greater confidence.
     - data/models/best.pt
+- **Method:** command:
+
+    ```yolo task=detect mode=train model=yolov8n.pt data=dataset/formatted/data.yaml epochs=50 imgsz=640 plots=True```
 
 ### Phase 3: Object Tracking (COMPLETE)
 - Implemented `CentroidTracker` in `core/tracker.py`.

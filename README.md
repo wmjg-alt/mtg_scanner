@@ -15,7 +15,7 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 
 ## Current Status: Phase 4
 
-### Phase 4: Custom Model Training (In Progress)
+### Phase 4: Custom Model Training (COMPLETE)
 - Created `tools/capture_data.py` to harvest training images.
 - **Goal:** Train a custom YOLOv8 model on specific MTG card data.
 - **Why:** Generic model required 3% confidence and NMS hacks. Custom model should allow greater confidence.

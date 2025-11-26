@@ -5,10 +5,11 @@ import config
 
 class CardDetector:
     def __init__(self):
-        print(f"Loading YOLO model: {config.YOLO_MODEL}...")
+        print(f"Loading Custom YOLO model: {config.YOLO_MODEL}...")
         self.model = YOLO(config.YOLO_MODEL)
         self.names = self.model.names 
-        self.allowed_classes = [73, 67] # book, cell phone
+        # Removed hardcoded 'allowed_classes' because custom models usually 
+        # only output what we trained them on.
 
     def detect(self, frame):
         height, width = frame.shape[:2]
@@ -18,8 +19,8 @@ class CardDetector:
             frame, 
             imgsz=config.YOLO_INPUT_SIZE, 
             verbose=False, 
-            conf=config.CONFIDENCE_THRESHOLD,
-            #classes=self.allowed_classes
+            conf=config.CONFIDENCE_THRESHOLD
+            # Removed 'classes' argument
         )
         
         raw_boxes = []
@@ -43,7 +44,7 @@ class CardDetector:
                     (y2 - y1) < config.MIN_BOX_HEIGHT):
                     continue
                 
-                # Save as [x, y, w, h] for NMS function
+                # Save as [x, y, w, h] for NMS
                 w_box = x2 - x1
                 h_box = y2 - y1
                 
@@ -54,8 +55,7 @@ class CardDetector:
         if not raw_boxes:
             return []
 
-        # 3. APPLY NMS (Non-Maximum Suppression)
-        # This removes overlapping duplicates (e.g., two boxes on the same card)
+        # 3. APPLY NMS
         indices = cv2.dnn.NMSBoxes(
             raw_boxes, 
             confidences, 
@@ -66,17 +66,13 @@ class CardDetector:
         final_boxes = []
         
         if len(indices) > 0:
-            # Flatten indices
             indices = indices.flatten()
             
-            # 4. APPLY CONTAINMENT FILTER
-            # (Removes small boxes inside big boxes)
+            # 4. CONTAINMENT FILTER (Keep it, it's cheap and safe)
             kept_indices = []
-            
             for i in indices:
-                boxA = raw_boxes[i] # [x, y, w, h]
+                boxA = raw_boxes[i] 
                 is_contained = False
-                
                 areaA = boxA[2] * boxA[3]
                 
                 for j in indices:
@@ -84,7 +80,6 @@ class CardDetector:
                     boxB = raw_boxes[j]
                     areaB = boxB[2] * boxB[3]
                     
-                    # If A is significantly smaller than B, check if A is inside B
                     if areaA < areaB:
                         # Calculate Intersection
                         xA = max(boxA[0], boxB[0])
@@ -94,10 +89,8 @@ class CardDetector:
                         
                         interW = max(0, xB - xA)
                         interH = max(0, yB - yA)
-                        
                         intersection = interW * interH
                         
-                        # If intersection covers most of box A, A is inside B. Kill A.
                         if intersection > (areaA * config.CONTAINMENT_THRESHOLD):
                             is_contained = True
                             break

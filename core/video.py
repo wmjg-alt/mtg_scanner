@@ -39,23 +39,24 @@ class VideoThread(QThread):
                 # (Later we can add optical flow for in-between frames if needed)
                 
                 rects = []
-                detected_objects = [] # For debug text
+                detected_objects = []
+                confidences = []
                 
                 if frame_count % config.DETECT_EVERY_N_FRAMES == 0:
                     detections = self.detector.detect(frame)
-                    
                     # Strip out just the box coordinates for the tracker
                     for item in detections:
                         # item = [x1, y1, x2, y2, conf, cls, name]
                         rects.append(item[0:4]) 
                         detected_objects.append(f"{item[6]}")
+                        confidences.append(item[4])
 
                     # 2. TRACK (Update IDs)
                     objects = self.tracker.update(rects)
-                    
-                    # Update Debug Text
+
+                    # Update Debug Text with cards being tracked and list their confidences
                     if objects:
-                        debug_str = f"Tracking {len(objects)} Cards | IDs: {list(objects.keys())}"
+                        debug_str = f"Tracking {len(objects)} Cards | IDs: {list(objects.keys())} | Confidences: {[round(c,2) for c in confidences]}"
                     else:
                         debug_str = "Tracking: None"
                     self.debug_info_signal.emit(debug_str)
@@ -73,10 +74,10 @@ class VideoThread(QThread):
                         # A. Draw Box
                         cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
 
-                        # B. Draw ID 
+                        # B. Draw ID and confidence score
                         text = f"ID {objectID}"
                         cv2.putText(frame, text, (centroid[0] - 10, centroid[1] - 10),
-                                    cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 2)
+                                    cv2.FONT_HERSHEY_SIMPLEX, 3, (0, 0, 255), 2)
                         
                         # C. Draw Centroid
                         cv2.circle(frame, (centroid[0], centroid[1]), 4, (0, 0, 255), -1)

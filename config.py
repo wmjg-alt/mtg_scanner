@@ -2,7 +2,6 @@ import os
 
 # --- PATHS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-#runs\detect\train\weights
 MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "best.pt")
 
 # --- CAMERA SETTINGS ---
@@ -13,14 +12,12 @@ REQUEST_HEIGHT = 2160
 # --- DETECTION SETTINGS ---
 YOLO_MODEL = MODEL_PATH       
 YOLO_INPUT_SIZE = 640       
-CONFIDENCE_THRESHOLD = 0.1  
-DETECT_EVERY_N_FRAMES = 1   
+CONFIDENCE_THRESHOLD = 0.7  
+DETECT_EVERY_N_FRAMES = 1  #  5 better for performance, 1 for rapid movements
 
-# --- FILTERING RULES (NEW) ---
-# Intersection over Union: 0.3 means if boxes overlap 30%, kill the weak one.
+# --- FILTERING RULES ---
 NMS_THRESHOLD = 0.3          
-# If a box is > 85% contained inside another box, kill it.
-CONTAINMENT_THRESHOLD = 0.75 
+CONTAINMENT_THRESHOLD = 0.85 
 
 # --- LOGIC RULES ---
 EDGE_MARGIN = 50            

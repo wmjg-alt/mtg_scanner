@@ -13,9 +13,15 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 2. Activate it.
 3. Install requirements: `pip install -r requirements.txt`
 
-## Current Status: Phase 3
+## Current Status: Phase 4
 
-### Phase 3: Object Tracking (...)
+### Phase 4: Custom Model Training (In Progress)
+- Created `tools/capture_data.py` to harvest training images.
+- **Goal:** Train a custom YOLOv8 model on specific MTG card data.
+- **Why:** Generic model required 3% confidence and NMS hacks. Custom model should allow greater confidence.
+    - data/models/best.pt
+
+### Phase 3: Object Tracking (COMPLETE)
 - Implemented `CentroidTracker` in `core/tracker.py`.
 - Assigns unique IDs to cards.
 - **Features:** 

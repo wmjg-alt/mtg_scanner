@@ -19,7 +19,7 @@ class CardDetector:
             imgsz=config.YOLO_INPUT_SIZE, 
             verbose=False, 
             conf=config.CONFIDENCE_THRESHOLD,
-            classes=self.allowed_classes
+            #classes=self.allowed_classes
         )
         
         raw_boxes = []

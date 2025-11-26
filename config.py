@@ -2,7 +2,8 @@ import os
 
 # --- PATHS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "yolov8n.pt")
+#runs\detect\train\weights
+MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "best.pt")
 
 # --- CAMERA SETTINGS ---
 CAMERA_INDEX = 0
@@ -12,8 +13,8 @@ REQUEST_HEIGHT = 2160
 # --- DETECTION SETTINGS ---
 YOLO_MODEL = MODEL_PATH       
 YOLO_INPUT_SIZE = 640       
-CONFIDENCE_THRESHOLD = 0.03  # Your aggressive setting
-DETECT_EVERY_N_FRAMES = 3   
+CONFIDENCE_THRESHOLD = 0.1  
+DETECT_EVERY_N_FRAMES = 1   
 
 # --- FILTERING RULES (NEW) ---
 # Intersection over Union: 0.3 means if boxes overlap 30%, kill the weak one.
@@ -33,7 +34,7 @@ DEBUG_COLOR_BOX = (0, 255, 0)
 DEBUG_COLOR_BORDER = (0, 0, 255)
 
 # --- TRACKING SETTINGS ---
-MAX_TRACKING_DISTANCE = 700  
+MAX_TRACKING_DISTANCE = 1000  
 MAX_DISAPPEARED_FRAMES = 15   
 MIN_FRAMES_TO_CONFIRM = 15    
 

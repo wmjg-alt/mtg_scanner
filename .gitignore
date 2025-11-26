@@ -20,3 +20,16 @@ data/models/*.pt
 *.jpg
 *.png
 *.mp4
+*.csv
+
+# Ignore the runs folder
+runs/
+
+# Ignore the contents of dataset/formatted except for the .gitkeep file
+dataset/formatted/*
+!dataset/formatted/.gitkeep
+
+# Ignore the dataset/raw_images except for the .gitkeep file
+dataset/raw_images/*
+!dataset/raw_images/.gitkeep
+

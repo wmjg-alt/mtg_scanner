@@ -1,7 +1,6 @@
 import os
 
 # --- PATHS ---
-# Robust way to find the model relative to this config file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "yolov8n.pt")
 
@@ -11,10 +10,16 @@ REQUEST_WIDTH = 3840
 REQUEST_HEIGHT = 2160         
 
 # --- DETECTION SETTINGS ---
-YOLO_MODEL = MODEL_PATH       # Updated to use the variable above
+YOLO_MODEL = MODEL_PATH       
 YOLO_INPUT_SIZE = 640       
-CONFIDENCE_THRESHOLD = 0.25   # Kept low based on testing
-DETECT_EVERY_N_FRAMES = 5   
+CONFIDENCE_THRESHOLD = 0.03  # Your aggressive setting
+DETECT_EVERY_N_FRAMES = 3   
+
+# --- FILTERING RULES (NEW) ---
+# Intersection over Union: 0.3 means if boxes overlap 30%, kill the weak one.
+NMS_THRESHOLD = 0.3          
+# If a box is > 85% contained inside another box, kill it.
+CONTAINMENT_THRESHOLD = 0.75 
 
 # --- LOGIC RULES ---
 EDGE_MARGIN = 50            
@@ -26,3 +31,12 @@ SHOW_DEBUG_BOXES = True
 SHOW_EDGE_BORDER = True     
 DEBUG_COLOR_BOX = (0, 255, 0)       
 DEBUG_COLOR_BORDER = (0, 0, 255)
+
+# --- TRACKING SETTINGS ---
+MAX_TRACKING_DISTANCE = 700  
+MAX_DISAPPEARED_FRAMES = 15   
+MIN_FRAMES_TO_CONFIRM = 15    
+
+# --- STABILITY SETTINGS ---
+STABILITY_DISTANCE = 15      
+STABILITY_HISTORY_LEN = 10

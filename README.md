@@ -13,7 +13,17 @@ A modular Python application to scan Magic the Gathering cards via live webcam, 
 2. Activate it.
 3. Install requirements: `pip install -r requirements.txt`
 
-## Current Status: Phase 5
+## Current Status: Phase 6
+
+### Phase 6: Librarian & API (...)
+- **Database (`data/db_manager.py`):** 
+    - Implemented SQLite schema separating `catalog` (Scryfall cache) from `collection` (User scans).
+- **API (`services/scryfall_service.py`):**
+    - Strict 1.0s rate limiting.
+    - Uses Scryfall Fuzzy Matching to handle OCR typos.
+- **Controller (`core/librarian.py`):**
+    - Background thread processing the identification queue.
+    - Logic: Check DB -> If Missing, Check API -> Save Scan -> Log to Collection.
 
 ### Phase 5: Image Processing & OCR (Completed)
 - **Smart Tranform (`core/image_processor.py`):** 

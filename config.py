@@ -3,6 +3,8 @@ import os
 # --- PATHS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "best.pt")
+DB_PATH = os.path.join(BASE_DIR, "data", "inventory.db")
+SCANS_DIR = os.path.join(BASE_DIR, "data", "scans")
 
 # --- CAMERA SETTINGS ---
 CAMERA_INDEX = 0
@@ -13,7 +15,7 @@ REQUEST_HEIGHT = 2160
 YOLO_MODEL = MODEL_PATH       
 YOLO_INPUT_SIZE = 640       
 CONFIDENCE_THRESHOLD = 0.7  
-DETECT_EVERY_N_FRAMES = 1  #  5 better for performance, 1 for rapid movements
+DETECT_EVERY_N_FRAMES = 1
 
 # --- FILTERING RULES ---
 NMS_THRESHOLD = 0.3          
@@ -38,3 +40,8 @@ MIN_FRAMES_TO_CONFIRM = 15
 # --- STABILITY SETTINGS ---
 STABILITY_DISTANCE = 15      
 STABILITY_HISTORY_LEN = 10
+
+# --- API & DATA SETTINGS  ---
+API_BASE_URL = "https://api.scryfall.com"
+API_USER_AGENT = "MTGScannerLocal/1.0"
+API_RATE_LIMIT = 1      # Seconds between calls (Safe buffer)

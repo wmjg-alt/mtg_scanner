@@ -1,0 +1,1475 @@
+2025-11-28 17:55:44,777 - INFO - Starting Scanner Mode...
+2025-11-28 17:55:44,877 - INFO - Initializing EasyOCR Engine (GPU)...
+2025-11-28 17:55:46,009 - INFO - Librarian Service Started.
+2025-11-28 17:55:56,836 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 17:55:57,976 - INFO - [OCR] Winner: '00' (Score 0.4). Total: 0.15s
+2025-11-28 17:55:57,978 - INFO - [Librarian] API Lookup: 00
+2025-11-28 17:55:59,906 - WARNING - Invalid text: 00
+2025-11-28 17:56:00,011 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:56:00,232 - INFO - [OCR] Winner: '0' (Score 0.4). Total: 0.11s
+2025-11-28 17:56:00,234 - INFO - [Librarian] API Lookup: 0
+2025-11-28 17:56:00,342 - WARNING - Invalid text: 0
+2025-11-28 17:56:01,433 - INFO - [OCR] Winner: 'Ripride 3 0' (Score 0.4). Total: 0.12s
+2025-11-28 17:56:01,436 - INFO - [Librarian] API Lookup: Ripride 3 0
+2025-11-28 17:56:02,269 - WARNING - Invalid text: Ripride 3 0
+2025-11-28 17:56:02,508 - INFO - [OCR] Winner: 'Ripride 800' (Score 0.5). Total: 0.10s
+2025-11-28 17:56:02,510 - INFO - [Librarian] API Lookup: Ripride 800
+2025-11-28 17:56:03,205 - WARNING - Invalid text: Ripride 800
+2025-11-28 17:56:03,635 - INFO - [OCR] Winner: 'Ripride 300 Chrovbleg' (Score 0.5). Total: 0.11s
+2025-11-28 17:56:03,637 - INFO - [Librarian] API Lookup: Ripride 300 Chrovbleg
+2025-11-28 17:56:04,092 - WARNING - Invalid text: Ripride 300 Chrovbleg
+2025-11-28 17:56:04,856 - INFO - [OCR] Early Exit (Upright). Total: 0.09s
+2025-11-28 17:56:04,862 - INFO - [Librarian] API Lookup: Ripcide 300
+2025-11-28 17:56:05,867 - WARNING - Invalid text: Ripcide 300
+2025-11-28 17:56:05,938 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:56:07,076 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:56:08,316 - INFO - [OCR] Winner: 'Ripridc 300 Chrojbkeg' (Score 0.5). Total: 0.14s
+2025-11-28 17:56:08,317 - INFO - [Librarian] API Lookup: Ripridc 300 Chrojbkeg
+2025-11-28 17:56:09,306 - WARNING - Invalid text: Ripridc 300 Chrojbkeg
+2025-11-28 17:56:09,386 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 17:56:09,388 - INFO - [Librarian] API Lookup: Ripride
+2025-11-28 17:56:10,586 - WARNING - Invalid text: Ripride
+2025-11-28 17:56:10,753 - INFO - [OCR] Winner: '8 00 Cbronblegise' (Score 0.4). Total: 0.16s
+2025-11-28 17:56:10,755 - INFO - [Librarian] API Lookup: 8 00 Cbronblegise
+2025-11-28 17:56:11,869 - WARNING - Invalid text: 8 00 Cbronblegise
+2025-11-28 17:56:11,979 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:56:12,944 - INFO - [OCR] Winner: '13 0' (Score 0.2). Total: 0.12s
+2025-11-28 17:56:12,945 - INFO - [Librarian] API Lookup: 13 0
+2025-11-28 17:56:22,533 - WARNING - Invalid text: 13 0
+2025-11-28 17:56:22,695 - INFO - [OCR] Winner: '3 0' (Score 0.4). Total: 0.16s
+2025-11-28 17:56:22,697 - INFO - [Librarian] API Lookup: 3 0
+2025-11-28 17:56:28,570 - INFO - New Collection Entry: Pip-Boy 3000
+2025-11-28 17:56:28,588 - INFO - [Librarian] Processed DB7HX in 6.05s | Score: 2.80
+2025-11-28 17:56:28,831 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.14s
+2025-11-28 17:56:28,966 - INFO - [OCR] Winner: 'Ripcide Chronblog 18 00' (Score 0.5). Total: 0.14s
+2025-11-28 17:56:28,967 - INFO - [Librarian] API Lookup: Ripcide Chronblog 18 00
+2025-11-28 17:56:29,633 - WARNING - Invalid text: Ripcide Chronblog 18 00
+2025-11-28 17:56:29,754 - INFO - [OCR] Winner: '6' (Score 0.1). Total: 0.12s
+2025-11-28 17:56:29,822 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:56:29,890 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:56:30,011 - INFO - [OCR] Winner: 'Ripcide Chronolgg 300' (Score 0.5). Total: 0.12s
+2025-11-28 17:56:30,017 - INFO - [Librarian] API Lookup: Ripcide Chronolgg 300
+2025-11-28 17:56:30,813 - WARNING - Invalid text: Ripcide Chronolgg 300
+2025-11-28 17:56:30,897 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:56:30,956 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:56:31,054 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:56:31,137 - INFO - [OCR] Winner: '9' (Score 0.4). Total: 0.08s
+2025-11-28 17:56:31,243 - INFO - [OCR] Winner: '13'' (Score 0.1). Total: 0.11s
+2025-11-28 17:56:31,310 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:56:31,395 - INFO - [OCR] Winner: 'RiprideChronolegtse' (Score 0.5). Total: 0.09s
+2025-11-28 17:56:31,500 - INFO - [OCR] Winner: '3 00' (Score 0.4). Total: 0.10s
+2025-11-28 17:56:31,502 - INFO - [Librarian] API Lookup: 3 00
+2025-11-28 17:56:36,265 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\PipBoy3000_1764381388_DB7HX.jpg
+2025-11-28 17:56:36,266 - INFO - Updated Collection ID DB7HX -> Pip-Boy 3000
+2025-11-28 17:56:36,279 - INFO - [Librarian] Processed DB7HX in 4.88s | Score: 3.56
+2025-11-28 17:56:36,534 - INFO - [OCR] Winner: '3' (Score 0.4). Total: 0.15s
+2025-11-28 17:56:36,628 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:56:36,763 - INFO - [OCR] Winner: 'ddmt' (Score 0.2). Total: 0.13s
+2025-11-28 17:56:36,853 - INFO - [OCR] Winner: 'RipcideChrongleg 3 J0' (Score 0.6). Total: 0.09s
+2025-11-28 17:56:36,854 - INFO - [Librarian] API Lookup: RipcideChrongleg 3 J0
+2025-11-28 17:56:37,455 - WARNING - Invalid text: RipcideChrongleg 3 J0
+2025-11-28 17:56:37,564 - INFO - [OCR] Winner: '3 00' (Score 0.3). Total: 0.10s
+2025-11-28 17:56:38,513 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:56:39,573 - INFO - [OCR] Winner: 'Ripcide Chronolg 54' (Score 0.5). Total: 0.09s
+2025-11-28 17:56:39,574 - INFO - [Librarian] API Lookup: Ripcide Chronolg 54
+2025-11-28 17:56:40,291 - WARNING - Invalid text: Ripcide Chronolg 54
+2025-11-28 17:56:40,754 - INFO - [OCR] Winner: 'Ripride Chrono 0 3 00' (Score 0.5). Total: 0.14s
+2025-11-28 17:56:40,755 - INFO - [Librarian] API Lookup: Ripride Chrono 0 3 00
+2025-11-28 17:56:41,288 - WARNING - Invalid text: Ripride Chrono 0 3 00
+2025-11-28 17:56:41,835 - INFO - [OCR] Winner: '3' (Score 0.4). Total: 0.11s
+2025-11-28 17:56:42,873 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:56:44,122 - INFO - [OCR] Winner: 'Riptide Chronolegust' (Score 0.5). Total: 0.13s
+2025-11-28 17:56:44,124 - INFO - [Librarian] API Lookup: Riptide Chronolegust
+2025-11-28 17:56:44,664 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\PipBoy3000_1764381396_DB7HX.jpg
+2025-11-28 17:56:44,664 - INFO - Updated Collection ID DB7HX -> Riptide Chronologist
+2025-11-28 17:56:44,676 - INFO - [Librarian] Processed DB7HX in 0.69s | Score: 8.18
+2025-11-28 17:56:45,202 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:56:46,352 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:56:47,593 - INFO - [OCR] Winner: 'Ripcidc Chronolegisu 3 00' (Score 0.5). Total: 0.14s
+2025-11-28 17:56:48,679 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 17:56:49,926 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 17:56:51,077 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:56:54,729 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 17:56:56,059 - INFO - [OCR] Winner: 'Orb 300 Vispctsing' (Score 0.6). Total: 0.14s
+2025-11-28 17:56:56,060 - INFO - [Librarian] API Lookup: Orb 300 Vispctsing
+2025-11-28 17:56:56,872 - WARNING - Invalid text: Orb 300 Vispctsing
+2025-11-28 17:56:57,217 - INFO - [OCR] Winner: '0rb 800 Dispcr5ing' (Score 0.5). Total: 0.13s
+2025-11-28 17:56:57,219 - INFO - [Librarian] API Lookup: 0rb 800 Dispcr5ing
+2025-11-28 17:56:59,269 - WARNING - Invalid text: 0rb 800 Dispcr5ing
+2025-11-28 17:56:59,423 - INFO - [OCR] Winner: '0rb 00 Dispcrsing' (Score 0.6). Total: 0.15s
+2025-11-28 17:56:59,425 - INFO - [Librarian] API Lookup: 0rb 00 Dispcrsing
+2025-11-28 17:57:00,175 - WARNING - Invalid text: 0rb 00 Dispcrsing
+2025-11-28 17:57:00,333 - INFO - [OCR] Winner: 'Orb 900 Dispcrsing' (Score 0.5). Total: 0.15s
+2025-11-28 17:57:00,334 - INFO - [Librarian] API Lookup: Orb 900 Dispcrsing
+2025-11-28 17:57:00,897 - WARNING - Invalid text: Orb 900 Dispcrsing
+2025-11-28 17:57:00,994 - INFO - [OCR] Winner: 'Orb Di-persing' (Score 0.6). Total: 0.09s
+2025-11-28 17:57:00,995 - INFO - [Librarian] API Lookup: Orb Di-persing
+2025-11-28 17:57:01,943 - WARNING - Invalid text: Orb Di-persing
+2025-11-28 17:57:02,014 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:57:03,203 - INFO - [OCR] Winner: 'Dispersing Orb' (Score 0.6). Total: 0.13s
+2025-11-28 17:57:03,204 - INFO - [Librarian] API Lookup: Dispersing Orb
+2025-11-28 17:57:03,313 - INFO - New Collection Entry: Dispersing Orb
+2025-11-28 17:57:03,327 - INFO - [Librarian] Processed 6F5IU in 0.25s | Score: 11.05
+2025-11-28 17:57:04,305 - INFO - [OCR] Winner: 'Di-persing Oru' (Score 0.5). Total: 0.13s
+2025-11-28 17:57:05,475 - INFO - [OCR] Winner: 'Dispersing Orb 0' (Score 0.5). Total: 0.12s
+2025-11-28 17:57:06,534 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:57:10,186 - INFO - [OCR] Winner: 'Forest' (Score 0.5). Total: 0.13s
+2025-11-28 17:57:10,187 - INFO - [Librarian] API Lookup: Forest
+2025-11-28 17:57:10,382 - INFO - New Collection Entry: Forest
+2025-11-28 17:57:10,394 - INFO - [Librarian] Processed 8YDL6 in 0.34s | Score: 5.99
+2025-11-28 17:57:11,369 - INFO - [OCR] Winner: 'Forest' (Score 0.4). Total: 0.14s
+2025-11-28 17:57:12,426 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:57:14,700 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:57:15,897 - INFO - [OCR] Winner: 'Yoked Ox' (Score 0.5). Total: 0.13s
+2025-11-28 17:57:15,898 - INFO - [Librarian] API Lookup: Yoked Ox
+2025-11-28 17:57:16,063 - INFO - New Collection Entry: Yoked Ox
+2025-11-28 17:57:16,074 - INFO - [Librarian] Processed 7D9NZ in 0.31s | Score: 7.98
+2025-11-28 17:57:17,090 - INFO - [OCR] Winner: 'Yoked Ox' (Score 0.5). Total: 0.07s
+2025-11-28 17:57:18,194 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:57:19,534 - INFO - [OCR] Winner: 'Elgaud Inquisitor' (Score 0.7). Total: 0.14s
+2025-11-28 17:57:19,535 - INFO - [Librarian] API Lookup: Elgaud Inquisitor
+2025-11-28 17:57:19,925 - INFO - New Collection Entry: Elgaud Inquisitor
+2025-11-28 17:57:19,938 - INFO - [Librarian] Processed 9P3QA in 0.54s | Score: 15.97
+2025-11-28 17:57:20,806 - INFO - [OCR] Upright    | Time: 0.24s | Conf: 0.50 | Text: '5141 Jo 7775 pil Pqom Mn Ir'
+2025-11-28 17:57:20,846 - INFO - [OCR] Winner: '5141 Jo 7775 pil Pqom Mn Ir' (Score 0.5). Total: 0.28s
+2025-11-28 17:57:21,783 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:57:23,013 - INFO - [OCR] Winner: 'Elgaud Inquisitor' (Score 0.7). Total: 0.15s
+2025-11-28 17:57:23,013 - INFO - [Librarian] Cache Hit: Elgaud Inquisitor -> elgaud inquisitor
+2025-11-28 17:57:23,021 - INFO - New Collection Entry: Elgaud Inquisitor
+2025-11-28 17:57:23,038 - INFO - [Librarian] Processed 4QZWS in 0.18s | Score: 15.24
+2025-11-28 17:57:24,171 - INFO - [OCR] Winner: 'Elgaud Inquisitor' (Score 0.7). Total: 0.14s
+2025-11-28 17:57:25,386 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:57:31,592 - INFO - [OCR] Winner: 'Vedalken Infusc' (Score 0.6). Total: 0.21s
+2025-11-28 17:57:31,593 - INFO - [Librarian] API Lookup: Vedalken Infusc
+2025-11-28 17:57:32,343 - INFO - New Collection Entry: Vedalken Infuser
+2025-11-28 17:57:32,355 - INFO - [Librarian] Processed DM89F in 0.98s | Score: 11.82
+2025-11-28 17:57:32,617 - INFO - [OCR] Winner: 'Vedalken Infuser' (Score 0.7). Total: 0.16s
+2025-11-28 17:57:32,627 - INFO - Updated Collection ID DM89F -> Vedalken Infuser
+2025-11-28 17:57:32,644 - INFO - [Librarian] Processed DM89F in 0.18s | Score: 14.62
+2025-11-28 17:57:33,797 - INFO - [OCR] Winner: 'Vedalken Infuscr' (Score 0.7). Total: 0.20s
+2025-11-28 17:57:33,798 - INFO - [Librarian] API Lookup: Vedalken Infuscr
+2025-11-28 17:57:34,368 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\VedalkenInfuser_1764381452_DM89F.jpg
+2025-11-28 17:57:34,368 - INFO - Updated Collection ID DM89F -> Vedalken Infuser
+2025-11-28 17:57:34,381 - INFO - [Librarian] Processed DM89F in 0.79s | Score: 15.75
+2025-11-28 17:57:35,069 - INFO - [OCR] Winner: 'Vedalken Infuser' (Score 0.7). Total: 0.17s
+2025-11-28 17:57:35,081 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\VedalkenInfuser_1764381454_DM89F.jpg
+2025-11-28 17:57:35,082 - INFO - Updated Collection ID DM89F -> Vedalken Infuser
+2025-11-28 17:57:35,098 - INFO - [Librarian] Processed DM89F in 0.20s | Score: 15.77
+2025-11-28 17:57:36,037 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:57:37,237 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 17:57:49,441 - INFO - [OCR] Winner: 'Yoked Ox' (Score 0.5). Total: 0.19s
+2025-11-28 17:57:49,442 - INFO - [Librarian] Cache Hit: Yoked Ox -> yoked ox
+2025-11-28 17:57:49,451 - INFO - New Collection Entry: Yoked Ox
+2025-11-28 17:57:49,466 - INFO - [Librarian] Processed 5KQ3Z in 0.21s | Score: 6.44
+2025-11-28 17:57:50,741 - INFO - [OCR] Winner: 'Yoked Ox' (Score 0.5). Total: 0.10s
+2025-11-28 17:57:50,741 - INFO - [Librarian] Cache Hit: Yoked Ox -> yoked ox
+2025-11-28 17:57:50,748 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\YokedOx_1764381469_5KQ3Z.jpg
+2025-11-28 17:57:50,749 - INFO - Updated Collection ID 5KQ3Z -> Yoked Ox
+2025-11-28 17:57:50,761 - INFO - [Librarian] Processed 5KQ3Z in 0.12s | Score: 7.71
+2025-11-28 17:57:51,936 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:57:56,680 - INFO - [OCR] Winner: 'of Fires (ndea' (Score 0.5). Total: 0.15s
+2025-11-28 17:57:56,681 - INFO - [Librarian] API Lookup: of Fires (ndea
+2025-11-28 17:57:57,397 - WARNING - Invalid text: of Fires (ndea
+2025-11-28 17:57:57,809 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:57:58,831 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:00,062 - INFO - [OCR] Winner: 'of Fires Unde' (Score 0.6). Total: 0.13s
+2025-11-28 17:58:00,064 - INFO - [Librarian] API Lookup: of Fires Unde
+2025-11-28 17:58:00,727 - INFO - New Collection Entry: Fires of Undeath
+2025-11-28 17:58:00,746 - INFO - [Librarian] Processed NAB55 in 0.81s | Score: 11.87
+2025-11-28 17:58:01,165 - INFO - [OCR] Winner: 'of Fires Unde' (Score 0.5). Total: 0.09s
+2025-11-28 17:58:02,231 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:58:03,498 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:58:08,277 - INFO - [OCR] Winner: 'Ebb Timc' (Score 0.5). Total: 0.16s
+2025-11-28 17:58:08,278 - INFO - [Librarian] API Lookup: Ebb Timc
+2025-11-28 17:58:08,813 - WARNING - Invalid text: Ebb Timc
+2025-11-28 17:58:09,488 - INFO - [OCR] Winner: 'Ebb Time' (Score 0.5). Total: 0.13s
+2025-11-28 17:58:09,489 - INFO - [Librarian] API Lookup: Ebb Time
+2025-11-28 17:58:10,235 - INFO - New Collection Entry: Time Ebb
+2025-11-28 17:58:10,247 - INFO - [Librarian] Processed 4LXJP in 0.89s | Score: 6.20
+2025-11-28 17:58:10,574 - INFO - [OCR] Winner: 'Time Ebb' (Score 0.5). Total: 0.11s
+2025-11-28 17:58:10,586 - INFO - Updated Collection ID 4LXJP -> Time Ebb
+2025-11-28 17:58:10,598 - INFO - [Librarian] Processed 4LXJP in 0.14s | Score: 6.62
+2025-11-28 17:58:11,658 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:58:12,835 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:14,109 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:58:16,339 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 17:58:17,629 - INFO - [OCR] Winner: 'Steady Progress' (Score 0.7). Total: 0.23s
+2025-11-28 17:58:17,629 - INFO - [Librarian] API Lookup: Steady Progress
+2025-11-28 17:58:18,050 - INFO - New Collection Entry: Steady Progress
+2025-11-28 17:58:18,062 - INFO - [Librarian] Processed 003PO in 0.67s | Score: 14.44
+2025-11-28 17:58:18,753 - INFO - [OCR] Winner: 'Steady Progress' (Score 0.7). Total: 0.17s
+2025-11-28 17:58:19,864 - INFO - [OCR] Winner: 'Steady Progress' (Score 0.7). Total: 0.16s
+2025-11-28 17:58:19,865 - INFO - [Librarian] Cache Hit: Steady Progress -> steady progress
+2025-11-28 17:58:19,872 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\SteadyProgress_1764381498_003PO.jpg
+2025-11-28 17:58:19,872 - INFO - Updated Collection ID 003PO -> Steady Progress
+2025-11-28 17:58:19,885 - INFO - [Librarian] Processed 003PO in 0.18s | Score: 14.74
+2025-11-28 17:58:20,840 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:23,346 - INFO - [OCR] Winner: 'End' (Score 0.3). Total: 0.14s
+2025-11-28 17:58:23,346 - INFO - [Librarian] API Lookup: End
+2025-11-28 17:58:23,928 - WARNING - Invalid text: End
+2025-11-28 17:58:24,559 - INFO - [OCR] Winner: 'Voyage s End' (Score 0.4). Total: 0.19s
+2025-11-28 17:58:24,561 - INFO - [Librarian] API Lookup: Voyage s End
+2025-11-28 17:58:24,867 - INFO - New Collection Entry: Voyage's End
+2025-11-28 17:58:24,880 - INFO - [Librarian] Processed O40MM in 0.51s | Score: 6.58
+2025-11-28 17:58:25,724 - INFO - [OCR] Winner: 'Voyage' s End' (Score 0.4). Total: 0.19s
+2025-11-28 17:58:25,725 - INFO - [Librarian] API Lookup: Voyage' s End
+2025-11-28 17:58:26,103 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\VoyagesEnd_1764381504_O40MM.jpg
+2025-11-28 17:58:26,103 - INFO - Updated Collection ID O40MM -> Voyage's End
+2025-11-28 17:58:26,115 - INFO - [Librarian] Processed O40MM in 0.58s | Score: 6.97
+2025-11-28 17:58:26,737 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:27,860 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:58:29,026 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:58:30,186 - INFO - [OCR] Winner: 'Artificer $' (Score 0.4). Total: 0.09s
+2025-11-28 17:58:30,187 - INFO - [Librarian] API Lookup: Artificer $
+2025-11-28 17:58:30,717 - INFO - New Collection Entry: Artificer's Hex
+2025-11-28 17:58:30,729 - INFO - [Librarian] Processed E5XIF in 0.64s | Score: 5.78
+2025-11-28 17:58:31,480 - INFO - [OCR] Winner: 'Artificer' $ Epiphamy' (Score 0.6). Total: 0.10s
+2025-11-28 17:58:31,481 - INFO - [Librarian] API Lookup: Artificer' $ Epiphamy
+2025-11-28 17:58:32,159 - WARNING - Invalid text: Artificer' $ Epiphamy
+2025-11-28 17:58:32,476 - INFO - [OCR] Winner: 'Artificer' $ Epiphany' (Score 0.6). Total: 0.10s
+2025-11-28 17:58:32,477 - INFO - [Librarian] API Lookup: Artificer' $ Epiphany
+2025-11-28 17:58:32,943 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\ArtificersHex_1764381510_E5XIF.jpg
+2025-11-28 17:58:32,944 - INFO - Updated Collection ID E5XIF -> Artificer's Epiphany
+2025-11-28 17:58:32,956 - INFO - [Librarian] Processed E5XIF in 0.58s | Score: 12.91
+2025-11-28 17:58:33,731 - INFO - [OCR] Winner: '5 Artificer'= Epiphany' (Score 0.6). Total: 0.14s
+2025-11-28 17:58:33,731 - INFO - [Librarian] API Lookup: 5 Artificer'= Epiphany
+2025-11-28 17:58:34,086 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\ArtificersEpiphany_1764381512_E5XIF.jpg
+2025-11-28 17:58:34,086 - INFO - Updated Collection ID E5XIF -> Artificer's Epiphany
+2025-11-28 17:58:34,098 - INFO - [Librarian] Processed E5XIF in 0.51s | Score: 14.59
+2025-11-28 17:58:34,869 - INFO - [OCR] Winner: '5 Artificer' Epiphany' (Score 0.7). Total: 0.11s
+2025-11-28 17:58:34,870 - INFO - [Librarian] API Lookup: 5 Artificer' Epiphany
+2025-11-28 17:58:35,331 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\ArtificersEpiphany_1764381514_E5XIF.jpg
+2025-11-28 17:58:35,332 - INFO - Updated Collection ID E5XIF -> Artificer's Epiphany
+2025-11-28 17:58:35,346 - INFO - [Librarian] Processed E5XIF in 0.59s | Score: 18.08
+2025-11-28 17:58:36,012 - INFO - [OCR] Winner: 'Arfificer $ Epiphany' (Score 0.7). Total: 0.11s
+2025-11-28 17:58:37,166 - INFO - [OCR] Winner: 'Arfificer $ Epiphany' (Score 0.6). Total: 0.10s
+2025-11-28 17:58:38,240 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:58:39,415 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:40,597 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:58:41,628 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:47,619 - INFO - [OCR] Winner: 'Aeddlc' (Score 0.3). Total: 0.13s
+2025-11-28 17:58:47,620 - INFO - [Librarian] API Lookup: Aeddlc
+2025-11-28 17:58:48,235 - WARNING - Invalid text: Aeddlc
+2025-11-28 17:58:48,432 - INFO - [OCR] Winner: 'in a Labyrinth Lost' (Score 0.7). Total: 0.19s
+2025-11-28 17:58:48,434 - INFO - [Librarian] API Lookup: in a Labyrinth Lost
+2025-11-28 17:58:49,686 - INFO - New Collection Entry: Lost in a Labyrinth
+2025-11-28 17:58:49,699 - INFO - [Librarian] Processed JY7VZ in 1.46s | Score: 18.33
+2025-11-28 17:58:49,918 - INFO - [OCR] Winner: 'Meddle' (Score 0.5). Total: 0.10s
+2025-11-28 17:58:49,919 - INFO - [Librarian] API Lookup: Meddle
+2025-11-28 17:58:50,349 - INFO - New Collection Entry: Meddle
+2025-11-28 17:58:50,361 - INFO - [Librarian] Processed PZPUG in 0.55s | Score: 5.85
+2025-11-28 17:58:50,641 - INFO - [OCR] Winner: 'in Labyrinth Lost' (Score 0.6). Total: 0.17s
+2025-11-28 17:58:50,754 - INFO - [OCR] Winner: 'Meddle' (Score 0.5). Total: 0.11s
+2025-11-28 17:58:50,913 - INFO - [OCR] Winner: 'in Labyrinth Lost' (Score 0.7). Total: 0.16s
+2025-11-28 17:58:51,371 - INFO - [OCR] Winner: 'Tpous' (Score 0.3). Total: 0.10s
+2025-11-28 17:58:51,432 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:52,536 - INFO - [OCR] Winner: 'Mddlc' (Score 0.3). Total: 0.10s
+2025-11-28 17:58:52,601 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:53,758 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:53,829 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:55,028 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:55,097 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:58:56,159 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:58:58,570 - INFO - [OCR] Winner: 'Calculated Dismissal' (Score 0.8). Total: 0.15s
+2025-11-28 17:58:58,571 - INFO - [Librarian] API Lookup: Calculated Dismissal
+2025-11-28 17:58:58,708 - INFO - New Collection Entry: Calculated Dismissal
+2025-11-28 17:58:58,719 - INFO - [Librarian] Processed GFKF1 in 0.30s | Score: 19.66
+2025-11-28 17:58:59,847 - INFO - [OCR] Winner: 'Calculated Dismissal' (Score 0.7). Total: 0.13s
+2025-11-28 17:59:00,989 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:59:03,425 - INFO - [OCR] Winner: 'Ojutal"s Summons' (Score 0.5). Total: 0.14s
+2025-11-28 17:59:03,426 - INFO - [Librarian] API Lookup: Ojutal"s Summons
+2025-11-28 17:59:03,858 - INFO - New Collection Entry: Ojutai's Summons
+2025-11-28 17:59:03,871 - INFO - [Librarian] Processed GIWLO in 0.58s | Score: 10.78
+2025-11-28 17:59:04,651 - INFO - [OCR] Winner: '5 Ojutai' Summons' (Score 0.6). Total: 0.14s
+2025-11-28 17:59:04,652 - INFO - [Librarian] API Lookup: 5 Ojutai' Summons
+2025-11-28 17:59:05,530 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\OjutaisSummons_1764381543_GIWLO.jpg
+2025-11-28 17:59:05,530 - INFO - Updated Collection ID GIWLO -> Ojutai's Summons
+2025-11-28 17:59:05,543 - INFO - [Librarian] Processed GIWLO in 1.03s | Score: 13.29
+2025-11-28 17:59:05,823 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:59:07,135 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:59:09,537 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.21s
+2025-11-28 17:59:10,966 - INFO - [OCR] Winner: 'Cathartic Adepr' (Score 0.7). Total: 0.15s
+2025-11-28 17:59:10,967 - INFO - [Librarian] API Lookup: Cathartic Adepr
+2025-11-28 17:59:11,421 - INFO - New Collection Entry: Cathartic Adept
+2025-11-28 17:59:11,434 - INFO - [Librarian] Processed B9JX9 in 0.62s | Score: 14.67
+2025-11-28 17:59:12,137 - INFO - [OCR] Winner: 'Cathartic Adept' (Score 0.7). Total: 0.18s
+2025-11-28 17:59:12,145 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\CatharticAdept_1764381551_B9JX9.jpg
+2025-11-28 17:59:12,146 - INFO - Updated Collection ID B9JX9 -> Cathartic Adept
+2025-11-28 17:59:12,161 - INFO - [Librarian] Processed B9JX9 in 0.20s | Score: 14.89
+2025-11-28 17:59:13,274 - INFO - [OCR] Winner: 'Cathartic Adept' (Score 0.7). Total: 0.13s
+2025-11-28 17:59:14,416 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:59:17,916 - INFO - [OCR] Winner: 'Pah Lofus Djinn' (Score 0.7). Total: 0.14s
+2025-11-28 17:59:17,917 - INFO - [Librarian] API Lookup: Pah Lofus Djinn
+2025-11-28 17:59:18,668 - WARNING - Invalid text: Pah Lofus Djinn
+2025-11-28 17:59:19,127 - INFO - [OCR] Winner: 'Path Djinn Loius' (Score 0.6). Total: 0.11s
+2025-11-28 17:59:19,128 - INFO - [Librarian] API Lookup: Path Djinn Loius
+2025-11-28 17:59:19,698 - WARNING - Invalid text: Path Djinn Loius
+2025-11-28 17:59:20,345 - INFO - [OCR] Winner: 'Path Djinn Lofus' (Score 0.7). Total: 0.12s
+2025-11-28 17:59:20,346 - INFO - [Librarian] API Lookup: Path Djinn Lofus
+2025-11-28 17:59:21,148 - WARNING - Invalid text: Path Djinn Lofus
+2025-11-28 17:59:21,628 - INFO - [OCR] Winner: 'Path Lofus Djinn' (Score 0.6). Total: 0.16s
+2025-11-28 17:59:21,630 - INFO - [Librarian] API Lookup: Path Lofus Djinn
+2025-11-28 17:59:22,777 - WARNING - Invalid text: Path Lofus Djinn
+2025-11-28 17:59:22,877 - INFO - [OCR] Winner: 'Path Djinn Loius' (Score 0.6). Total: 0.09s
+2025-11-28 17:59:24,141 - INFO - [OCR] Winner: 'Path Djinn Loius' (Score 0.5). Total: 0.13s
+2025-11-28 17:59:25,369 - INFO - [OCR] Winner: 'Path Djinn Lofus' (Score 0.6). Total: 0.12s
+2025-11-28 17:59:26,604 - INFO - [OCR] Winner: 'Lotus Path Djinn' (Score 0.7). Total: 0.14s
+2025-11-28 17:59:26,605 - INFO - [Librarian] API Lookup: Lotus Path Djinn
+2025-11-28 17:59:26,733 - INFO - New Collection Entry: Lotus Path Djinn
+2025-11-28 17:59:26,744 - INFO - [Librarian] Processed 58D9A in 0.28s | Score: 15.43
+2025-11-28 17:59:27,806 - INFO - [OCR] Winner: 'Fath Djinn Lofus' (Score 0.6). Total: 0.09s
+2025-11-28 17:59:28,992 - INFO - [OCR] Winner: 'Path Djinn Lotus' (Score 0.7). Total: 0.18s
+2025-11-28 17:59:30,169 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:59:32,622 - INFO - [OCR] Winner: 'Writ of Passace' (Score 0.6). Total: 0.23s
+2025-11-28 17:59:32,623 - INFO - [Librarian] API Lookup: Writ of Passace
+2025-11-28 17:59:33,042 - INFO - New Collection Entry: Writ of Passage
+2025-11-28 17:59:33,054 - INFO - [Librarian] Processed QCXS7 in 0.66s | Score: 12.46
+2025-11-28 17:59:33,769 - INFO - [OCR] Winner: 'Writ of Passage' (Score 0.6). Total: 0.17s
+2025-11-28 17:59:33,778 - INFO - Updated Collection ID QCXS7 -> Writ of Passage
+2025-11-28 17:59:33,790 - INFO - [Librarian] Processed QCXS7 in 0.19s | Score: 14.57
+2025-11-28 17:59:34,893 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:59:36,081 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:59:37,280 - INFO - [OCR] Winner: 'Send t0 Sleep' (Score 0.5). Total: 0.10s
+2025-11-28 17:59:38,512 - INFO - [OCR] Winner: '1 Slecp' (Score 0.5). Total: 0.11s
+2025-11-28 17:59:39,720 - INFO - [OCR] Winner: 'Send to 1 Sleep' (Score 0.6). Total: 0.15s
+2025-11-28 17:59:40,914 - INFO - [OCR] Winner: 'Send io Sleep' (Score 0.5). Total: 0.11s
+2025-11-28 17:59:42,069 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:59:44,532 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.17s
+2025-11-28 17:59:45,768 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:59:47,121 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:59:48,337 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:59:49,611 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 17:59:50,794 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:59:51,941 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 17:59:53,258 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 17:59:54,316 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 17:59:55,492 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 17:59:56,808 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 17:59:57,958 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 17:59:59,101 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:00:00,303 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:00:01,466 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:00:01,467 - INFO - [Librarian] API Lookup: Send to Slccp
+2025-11-28 18:00:02,041 - WARNING - Invalid text: Send to Slccp
+2025-11-28 18:00:02,913 - INFO - [OCR] Upright    | Time: 0.23s | Conf: 0.97 | Text: 'Send 10 Sleep'
+2025-11-28 18:00:02,913 - INFO - [OCR] Early Exit (Upright). Total: 0.23s
+2025-11-28 18:00:02,914 - INFO - [Librarian] API Lookup: Send 10 Sleep
+2025-11-28 18:00:03,527 - WARNING - Invalid text: Send 10 Sleep
+2025-11-28 18:00:04,107 - INFO - [OCR] Winner: 'Send (0 Sleep' (Score 0.5). Total: 0.14s
+2025-11-28 18:00:04,109 - INFO - [Librarian] API Lookup: Send (0 Sleep
+2025-11-28 18:00:04,730 - WARNING - Invalid text: Send (0 Sleep
+2025-11-28 18:00:05,357 - INFO - [OCR] Winner: 'Send i0 Slccp' (Score 0.5). Total: 0.17s
+2025-11-28 18:00:05,358 - INFO - [Librarian] API Lookup: Send i0 Slccp
+2025-11-28 18:00:05,985 - WARNING - Invalid text: Send i0 Slccp
+2025-11-28 18:00:06,544 - INFO - [OCR] Winner: 'Send t0 Slcep' (Score 0.4). Total: 0.13s
+2025-11-28 18:00:06,545 - INFO - [Librarian] API Lookup: Send t0 Slcep
+2025-11-28 18:00:07,127 - WARNING - Invalid text: Send t0 Slcep
+2025-11-28 18:00:07,721 - INFO - [OCR] Winner: 'Send io Slcep' (Score 0.4). Total: 0.16s
+2025-11-28 18:00:07,723 - INFO - [Librarian] API Lookup: Send io Slcep
+2025-11-28 18:00:08,359 - WARNING - Invalid text: Send io Slcep
+2025-11-28 18:00:08,958 - INFO - [OCR] Winner: 'Send 10 Slecp' (Score 0.5). Total: 0.15s
+2025-11-28 18:00:08,960 - INFO - [Librarian] API Lookup: Send 10 Slecp
+2025-11-28 18:00:09,783 - WARNING - Invalid text: Send 10 Slecp
+2025-11-28 18:00:10,269 - INFO - [OCR] Winner: 'Send to Slcep' (Score 0.5). Total: 0.17s
+2025-11-28 18:00:10,270 - INFO - [Librarian] API Lookup: Send to Slcep
+2025-11-28 18:00:10,834 - INFO - New Collection Entry: Send to Sleep
+2025-11-28 18:00:10,848 - INFO - [Librarian] Processed 7NPJG in 0.75s | Score: 9.90
+2025-11-28 18:00:11,402 - INFO - [OCR] Winner: 'I0 Sleep' (Score 0.4). Total: 0.09s
+2025-11-28 18:00:12,655 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:00:13,905 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:00:17,501 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:00:18,732 - INFO - [OCR] Winner: 'Ojutai $ Breath' (Score 0.6). Total: 0.13s
+2025-11-28 18:00:18,733 - INFO - [Librarian] API Lookup: Ojutai $ Breath
+2025-11-28 18:00:19,226 - INFO - New Collection Entry: Ojutai's Breath
+2025-11-28 18:00:19,242 - INFO - [Librarian] Processed C564O in 0.65s | Score: 13.33
+2025-11-28 18:00:20,027 - INFO - [OCR] Winner: 'Ojutai's Breath' (Score 0.5). Total: 0.13s
+2025-11-28 18:00:21,160 - INFO - [OCR] Winner: 'Ojutai $ Brcath' (Score 0.4). Total: 0.13s
+2025-11-28 18:00:22,387 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:00:23,451 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:00:24,639 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:00:25,842 - INFO - [OCR] Winner: '5 Artificcr' Epiphany' (Score 0.7). Total: 0.11s
+2025-11-28 18:00:25,843 - INFO - [Librarian] API Lookup: 5 Artificcr' Epiphany
+2025-11-28 18:00:28,694 - WARNING - Invalid text: 5 Artificcr' Epiphany
+2025-11-28 18:00:28,846 - INFO - [OCR] Winner: 'Epiphany' (Score 0.5). Total: 0.14s
+2025-11-28 18:00:28,847 - INFO - [Librarian] API Lookup: Epiphany
+2025-11-28 18:00:29,458 - WARNING - Invalid text: Epiphany
+2025-11-28 18:00:29,591 - INFO - [OCR] Winner: 'Artificerts Epiphany' (Score 0.7). Total: 0.13s
+2025-11-28 18:00:29,592 - INFO - [Librarian] API Lookup: Artificerts Epiphany
+2025-11-28 18:00:30,631 - INFO - New Collection Entry: Artificer's Epiphany
+2025-11-28 18:00:30,643 - INFO - [Librarian] Processed D9KMS in 1.18s | Score: 15.36
+2025-11-28 18:00:30,836 - INFO - [OCR] Winner: 'Artificers Epiphany' (Score 0.7). Total: 0.08s
+2025-11-28 18:00:30,837 - INFO - [Librarian] API Lookup: Artificers Epiphany
+2025-11-28 18:00:31,234 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\ArtificersEpiphany_1764381630_D9KMS.jpg
+2025-11-28 18:00:31,235 - INFO - Updated Collection ID D9KMS -> Artificer's Epiphany
+2025-11-28 18:00:31,247 - INFO - [Librarian] Processed D9KMS in 0.49s | Score: 17.21
+2025-11-28 18:00:31,437 - INFO - [OCR] Winner: 'Artificer s Epiphany' (Score 0.7). Total: 0.08s
+2025-11-28 18:00:31,967 - INFO - [OCR] Winner: 'Ariificer $ Epiphany' (Score 0.6). Total: 0.09s
+2025-11-28 18:00:33,197 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:00:34,456 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:00:36,921 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:00:37,038 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:00:38,285 - INFO - [OCR] Winner: 'Lost in Labyrinth' (Score 0.7). Total: 0.15s
+2025-11-28 18:00:38,285 - INFO - [Librarian] API Lookup: Lost in Labyrinth
+2025-11-28 18:00:38,996 - INFO - New Collection Entry: Lost in a Labyrinth
+2025-11-28 18:00:39,008 - INFO - [Librarian] Processed QCK9C in 0.87s | Score: 16.59
+2025-11-28 18:00:39,223 - INFO - [OCR] Winner: '3' (Score 0.2). Total: 0.10s
+2025-11-28 18:00:39,224 - INFO - [Librarian] API Lookup: 3
+2025-11-28 18:00:39,456 - WARNING - Invalid text: 3
+2025-11-28 18:00:39,642 - INFO - [OCR] Winner: 'Lost in a Labyrinth' (Score 0.6). Total: 0.18s
+2025-11-28 18:00:40,718 - INFO - [OCR] Winner: 'Lost in a Labyrinth' (Score 0.6). Total: 0.18s
+2025-11-28 18:00:41,767 - INFO - [OCR] Winner: 'Lost in Labyrinth' (Score 0.7). Total: 0.17s
+2025-11-28 18:00:42,841 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:00:43,992 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:00:47,415 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:00:48,722 - INFO - [OCR] Winner: 'Lost in a Labyrinth' (Score 0.5). Total: 0.21s
+2025-11-28 18:00:48,732 - INFO - New Collection Entry: Lost in a Labyrinth
+2025-11-28 18:00:48,748 - INFO - [Librarian] Processed IP8HI in 0.23s | Score: 8.03
+2025-11-28 18:00:49,883 - INFO - [OCR] Winner: 'Lost in a Labyrinth' (Score 0.6). Total: 0.16s
+2025-11-28 18:00:49,890 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\LostinaLabyrinth_1764381648_IP8HI.jpg
+2025-11-28 18:00:49,891 - INFO - Updated Collection ID IP8HI -> Lost in a Labyrinth
+2025-11-28 18:00:49,903 - INFO - [Librarian] Processed IP8HI in 0.18s | Score: 11.69
+2025-11-28 18:00:50,970 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:00:52,131 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:01:00,915 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.19s
+2025-11-28 18:01:02,193 - INFO - [OCR] Winner: 'Volcanic Submersion' (Score 0.8). Total: 0.09s
+2025-11-28 18:01:02,194 - INFO - [Librarian] API Lookup: Volcanic Submersion
+2025-11-28 18:01:02,570 - INFO - New Collection Entry: Volcanic Submersion
+2025-11-28 18:01:02,583 - INFO - [Librarian] Processed UUU43 in 0.48s | Score: 18.98
+2025-11-28 18:01:03,240 - INFO - [OCR] Winner: 'Volcanic Submersion' (Score 0.7). Total: 0.09s
+2025-11-28 18:01:04,493 - INFO - [OCR] Winner: 'Volcanic Submersion' (Score 0.8). Total: 0.13s
+2025-11-28 18:01:05,653 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:01:10,408 - INFO - [OCR] Winner: 'Volcanic Submersion' (Score 0.8). Total: 0.15s
+2025-11-28 18:01:10,409 - INFO - [Librarian] Cache Hit: Volcanic Submersion -> volcanic submersion
+2025-11-28 18:01:10,418 - INFO - New Collection Entry: Volcanic Submersion
+2025-11-28 18:01:10,433 - INFO - [Librarian] Processed 9UE2W in 0.18s | Score: 18.96
+2025-11-28 18:01:11,509 - INFO - [OCR] Winner: 'Volcanic Submersion' (Score 0.8). Total: 0.10s
+2025-11-28 18:01:11,510 - INFO - [Librarian] Cache Hit: Volcanic Submersion -> volcanic submersion
+2025-11-28 18:01:11,517 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\VolcanicSubmersion_1764381670_9UE2W.jpg
+2025-11-28 18:01:11,518 - INFO - Updated Collection ID 9UE2W -> Volcanic Submersion
+2025-11-28 18:01:11,530 - INFO - [Librarian] Processed 9UE2W in 0.12s | Score: 19.00
+2025-11-28 18:01:12,732 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:01:13,936 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:01:16,311 - INFO - [OCR] Winner: 'Atarka Efreet' (Score 0.5). Total: 0.15s
+2025-11-28 18:01:16,312 - INFO - [Librarian] API Lookup: Atarka Efreet
+2025-11-28 18:01:16,520 - INFO - New Collection Entry: Atarka Efreet
+2025-11-28 18:01:16,533 - INFO - [Librarian] Processed TM1MY in 0.38s | Score: 8.33
+2025-11-28 18:01:17,675 - INFO - [OCR] Winner: 'Ararka Efrcet 3' (Score 0.5). Total: 0.16s
+2025-11-28 18:01:17,675 - INFO - [Librarian] API Lookup: Ararka Efrcet 3
+2025-11-28 18:01:18,575 - WARNING - Invalid text: Ararka Efrcet 3
+2025-11-28 18:01:18,911 - INFO - [OCR] Winner: 'Ararka Efreef 82' (Score 0.5). Total: 0.12s
+2025-11-28 18:01:18,913 - INFO - [Librarian] API Lookup: Ararka Efreef 82
+2025-11-28 18:01:19,844 - WARNING - Invalid text: Ararka Efreef 82
+2025-11-28 18:01:20,117 - INFO - [OCR] Winner: 'Atarka Efreet' (Score 0.6). Total: 0.16s
+2025-11-28 18:01:20,119 - INFO - [Librarian] Cache Hit: Atarka Efreet -> atarka efreet
+2025-11-28 18:01:20,126 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\AtarkaEfreet_1764381676_TM1MY.jpg
+2025-11-28 18:01:20,127 - INFO - Updated Collection ID TM1MY -> Atarka Efreet
+2025-11-28 18:01:20,139 - INFO - [Librarian] Processed TM1MY in 0.18s | Score: 12.72
+2025-11-28 18:01:21,372 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:01:22,630 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:01:23,700 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:01:24,952 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:01:26,262 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:01:27,514 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.14s
+2025-11-28 18:01:27,516 - INFO - [Librarian] API Lookup: Hoplite Satyr
+2025-11-28 18:01:29,296 - INFO - New Collection Entry: Satyr Hoplite
+2025-11-28 18:01:29,308 - INFO - [Librarian] Processed UE7I6 in 1.94s | Score: 12.99
+2025-11-28 18:01:29,602 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.18s
+2025-11-28 18:01:29,964 - INFO - [OCR] Winner: 'Hoplite Salyr' (Score 0.6). Total: 0.15s
+2025-11-28 18:01:31,205 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.15s
+2025-11-28 18:01:32,350 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.15s
+2025-11-28 18:01:33,489 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.14s
+2025-11-28 18:01:34,753 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.5). Total: 0.12s
+2025-11-28 18:01:35,952 - INFO - [OCR] Winner: 'Hoplite Satyr' (Score 0.6). Total: 0.12s
+2025-11-28 18:01:37,062 - INFO - [OCR] Winner: '50' (Score 0.3). Total: 0.10s
+2025-11-28 18:01:38,235 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:01:39,402 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:01:43,221 - INFO - [OCR] Winner: 'Akroan Crusader' (Score 0.7). Total: 0.12s
+2025-11-28 18:01:43,222 - INFO - [Librarian] API Lookup: Akroan Crusader
+2025-11-28 18:01:43,611 - INFO - New Collection Entry: Akroan Crusader
+2025-11-28 18:01:43,624 - INFO - [Librarian] Processed NCVR5 in 0.52s | Score: 14.81
+2025-11-28 18:01:44,455 - INFO - [OCR] Winner: 'Akroan Crusader' (Score 0.7). Total: 0.10s
+2025-11-28 18:01:44,456 - INFO - [Librarian] Cache Hit: Akroan Crusader -> akroan crusader
+2025-11-28 18:01:44,464 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\AkroanCrusader_1764381703_NCVR5.jpg
+2025-11-28 18:01:44,465 - INFO - Updated Collection ID NCVR5 -> Akroan Crusader
+2025-11-28 18:01:44,478 - INFO - [Librarian] Processed NCVR5 in 0.12s | Score: 14.99
+2025-11-28 18:01:45,576 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:01:46,646 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:01:49,212 - INFO - [OCR] Upright    | Time: 0.21s | Conf: 0.52 | Text: 'InOt uodn Ez Aur'
+2025-11-28 18:01:49,299 - INFO - [OCR] Winner: 'Screamrezch Irwler' (Score 0.6). Total: 0.30s
+2025-11-28 18:01:49,300 - INFO - [Librarian] API Lookup: Screamrezch Irwler
+2025-11-28 18:01:49,980 - WARNING - Invalid text: Screamrezch Irwler
+2025-11-28 18:01:50,492 - INFO - [OCR] Upright    | Time: 0.29s | Conf: 0.49 | Text: 'Im Aur'
+2025-11-28 18:01:50,571 - INFO - [OCR] Winner: 'Screamreach Irwler' (Score 0.6). Total: 0.37s
+2025-11-28 18:01:50,572 - INFO - [Librarian] API Lookup: Screamreach Irwler
+2025-11-28 18:01:51,449 - INFO - New Collection Entry: Screamreach Brawler
+2025-11-28 18:01:51,452 - INFO - [Librarian] Processed QE5ZX in 1.25s | Score: 13.44
+2025-11-28 18:01:52,652 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:01:53,931 - INFO - [OCR] Winner: 'Screamreach Brawler' (Score 0.7). Total: 0.22s
+2025-11-28 18:01:53,943 - INFO - New Collection Entry: Screamreach Brawler
+2025-11-28 18:01:53,951 - INFO - [Librarian] Processed N9TVL in 0.24s | Score: 18.40
+2025-11-28 18:01:55,024 - INFO - [OCR] Winner: 'Screamreach Brawler' (Score 0.7). Total: 0.19s
+2025-11-28 18:01:56,097 - INFO - [OCR] Winner: 'Screamreach Brawler' (Score 0.6). Total: 0.07s
+2025-11-28 18:01:57,270 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:02:01,985 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:02:02,074 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:02:03,242 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:02:04,397 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:02:05,756 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:02:07,022 - INFO - [OCR] Winner: 'Malicious Intent' (Score 0.6). Total: 0.08s
+2025-11-28 18:02:07,023 - INFO - [Librarian] API Lookup: Malicious Intent
+2025-11-28 18:02:07,367 - INFO - New Collection Entry: Malicious Intent
+2025-11-28 18:02:07,381 - INFO - [Librarian] Processed 4ZCQQ in 0.44s | Score: 12.42
+2025-11-28 18:02:08,237 - INFO - [OCR] Winner: 'Malicious Intent' (Score 0.6). Total: 0.10s
+2025-11-28 18:02:08,238 - INFO - [Librarian] Cache Hit: Malicious Intent -> malicious intent
+2025-11-28 18:02:08,251 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\MaliciousIntent_1764381727_4ZCQQ.jpg
+2025-11-28 18:02:08,252 - INFO - Updated Collection ID 4ZCQQ -> Malicious Intent
+2025-11-28 18:02:08,264 - INFO - [Librarian] Processed 4ZCQQ in 0.12s | Score: 13.44
+2025-11-28 18:02:09,445 - INFO - [OCR] Winner: 'Malicious Intent' (Score 0.7). Total: 0.08s
+2025-11-28 18:02:09,446 - INFO - [Librarian] Cache Hit: Malicious Intent -> malicious intent
+2025-11-28 18:02:09,453 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\MaliciousIntent_1764381728_4ZCQQ.jpg
+2025-11-28 18:02:09,455 - INFO - Updated Collection ID 4ZCQQ -> Malicious Intent
+2025-11-28 18:02:09,458 - INFO - [Librarian] Processed 4ZCQQ in 0.09s | Score: 15.83
+2025-11-28 18:02:10,667 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:02:20,339 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.19s
+2025-11-28 18:02:21,661 - INFO - [OCR] Winner: 'Guardian Shield-Dearer' (Score 0.7). Total: 0.14s
+2025-11-28 18:02:21,662 - INFO - [Librarian] API Lookup: Guardian Shield-Dearer
+2025-11-28 18:02:22,659 - INFO - New Collection Entry: Guardian Shield-Bearer
+2025-11-28 18:02:22,671 - INFO - [Librarian] Processed Y4HMT in 1.15s | Score: 17.47
+2025-11-28 18:02:22,920 - INFO - [OCR] Winner: 'Guardian Shicld-Dearer' (Score 0.7). Total: 0.15s
+2025-11-28 18:02:23,929 - INFO - [OCR] Winner: 'Guardian Shield-Bearer' (Score 0.7). Total: 0.14s
+2025-11-28 18:02:23,938 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\GuardianShieldBearer_1764381742_Y4HMT.jpg
+2025-11-28 18:02:23,939 - INFO - Updated Collection ID Y4HMT -> Guardian Shield-Bearer
+2025-11-28 18:02:23,951 - INFO - [Librarian] Processed Y4HMT in 0.16s | Score: 18.59
+2025-11-28 18:02:25,109 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:02:26,283 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:02:30,068 - INFO - [OCR] Winner: 'Giant Dustwasp' (Score 0.7). Total: 0.13s
+2025-11-28 18:02:30,069 - INFO - [Librarian] API Lookup: Giant Dustwasp
+2025-11-28 18:02:30,483 - INFO - New Collection Entry: Giant Dustwasp
+2025-11-28 18:02:30,497 - INFO - [Librarian] Processed DYVFG in 0.56s | Score: 13.66
+2025-11-28 18:02:31,324 - INFO - [OCR] Winner: 'Giant Dustwasp 30' (Score 0.6). Total: 0.15s
+2025-11-28 18:02:31,325 - INFO - [Librarian] API Lookup: Giant Dustwasp 30
+2025-11-28 18:02:31,881 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\GiantDustwasp_1764381750_DYVFG.jpg
+2025-11-28 18:02:31,882 - INFO - Updated Collection ID DYVFG -> Giant Dustwasp
+2025-11-28 18:02:31,884 - INFO - [Librarian] Processed DYVFG in 0.71s | Score: 14.41
+2025-11-28 18:02:32,548 - INFO - [OCR] Winner: 'Giant Dustwasp' (Score 0.7). Total: 0.11s
+2025-11-28 18:02:33,694 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:02:35,997 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:02:37,217 - INFO - [OCR] Winner: 'Giant Duslwasp' (Score 0.6). Total: 0.12s
+2025-11-28 18:02:37,218 - INFO - [Librarian] API Lookup: Giant Duslwasp
+2025-11-28 18:02:37,887 - INFO - New Collection Entry: Giant Dustwasp
+2025-11-28 18:02:37,900 - INFO - [Librarian] Processed VOY33 in 0.80s | Score: 12.87
+2025-11-28 18:02:38,410 - INFO - [OCR] Winner: 'Giant Duslwasp' (Score 0.6). Total: 0.08s
+2025-11-28 18:02:39,680 - INFO - [OCR] Winner: 'Giant Duslwasp' (Score 0.6). Total: 0.10s
+2025-11-28 18:02:40,862 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:02:41,965 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:02:44,488 - INFO - [OCR] Winner: 'Somberwald Spider' (Score 0.7). Total: 0.19s
+2025-11-28 18:02:44,489 - INFO - [Librarian] API Lookup: Somberwald Spider
+2025-11-28 18:02:44,873 - INFO - New Collection Entry: Somberwald Spider
+2025-11-28 18:02:44,884 - INFO - [Librarian] Processed 0LDNG in 0.58s | Score: 16.75
+2025-11-28 18:02:45,752 - INFO - [OCR] Winner: 'Somberwald Spider' (Score 0.6). Total: 0.11s
+2025-11-28 18:02:46,886 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:02:48,020 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:02:50,444 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:02:51,784 - INFO - [OCR] Winner: 'Greater Dasilial' (Score 0.6). Total: 0.27s
+2025-11-28 18:02:51,784 - INFO - [Librarian] API Lookup: Greater Dasilial
+2025-11-28 18:02:54,499 - WARNING - Invalid text: Greater Dasilial
+2025-11-28 18:02:54,687 - INFO - [OCR] Winner: 'Greater Basilisk' (Score 0.7). Total: 0.18s
+2025-11-28 18:02:54,688 - INFO - [Librarian] API Lookup: Greater Basilisk
+2025-11-28 18:02:54,988 - INFO - New Collection Entry: Greater Basilisk
+2025-11-28 18:02:55,003 - INFO - [Librarian] Processed 5PTET in 0.50s | Score: 15.45
+2025-11-28 18:02:55,282 - INFO - [OCR] Winner: 'Greater Basilisk' (Score 0.6). Total: 0.17s
+2025-11-28 18:02:55,448 - INFO - [OCR] Winner: 'Greater Basilisk' (Score 0.7). Total: 0.17s
+2025-11-28 18:02:55,448 - INFO - [Librarian] Cache Hit: Greater Basilisk -> greater basilisk
+2025-11-28 18:02:55,456 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\GreaterBasilisk_1764381774_5PTET.jpg
+2025-11-28 18:02:55,461 - INFO - Updated Collection ID 5PTET -> Greater Basilisk
+2025-11-28 18:02:55,472 - INFO - [Librarian] Processed 5PTET in 0.19s | Score: 15.97
+2025-11-28 18:02:56,786 - INFO - [OCR] Winner: 'Greater Basilisk' (Score 0.7). Total: 0.16s
+2025-11-28 18:02:57,845 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:02:59,003 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:03:02,627 - INFO - [OCR] Winner: 'Mosstodon' (Score 0.4). Total: 0.11s
+2025-11-28 18:03:02,628 - INFO - [Librarian] API Lookup: Mosstodon
+2025-11-28 18:03:02,932 - INFO - New Collection Entry: Mosstodon
+2025-11-28 18:03:02,947 - INFO - [Librarian] Processed IF1JS in 0.43s | Score: 5.31
+2025-11-28 18:03:03,958 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 18:03:05,064 - INFO - [OCR] Winner: 'Mosstodon' (Score 0.5). Total: 0.09s
+2025-11-28 18:03:05,065 - INFO - [Librarian] Cache Hit: Mosstodon -> mosstodon
+2025-11-28 18:03:05,072 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\Mosstodon_1764381782_IF1JS.jpg
+2025-11-28 18:03:05,073 - INFO - Updated Collection ID IF1JS -> Mosstodon
+2025-11-28 18:03:05,084 - INFO - [Librarian] Processed IF1JS in 0.11s | Score: 7.85
+2025-11-28 18:03:06,427 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:03:10,022 - INFO - [OCR] Winner: 'Segmented Krotiq' (Score 0.6). Total: 0.18s
+2025-11-28 18:03:10,023 - INFO - [Librarian] API Lookup: Segmented Krotiq
+2025-11-28 18:03:10,199 - INFO - New Collection Entry: Segmented Krotiq
+2025-11-28 18:03:10,212 - INFO - [Librarian] Processed C4QF4 in 0.37s | Score: 12.65
+2025-11-28 18:03:11,274 - INFO - [OCR] Winner: 'Scgmented Kroliq' (Score 0.6). Total: 0.15s
+2025-11-28 18:03:11,275 - INFO - [Librarian] API Lookup: Scgmented Kroliq
+2025-11-28 18:03:11,819 - WARNING - Invalid text: Scgmented Kroliq
+2025-11-28 18:03:12,329 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:03:13,602 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:03:27,052 - INFO - [OCR] Winner: 'Kheru Dreadmaw' (Score 0.5). Total: 0.14s
+2025-11-28 18:03:27,053 - INFO - [Librarian] API Lookup: Kheru Dreadmaw
+2025-11-28 18:03:27,418 - INFO - New Collection Entry: Kheru Dreadmaw
+2025-11-28 18:03:27,431 - INFO - [Librarian] Processed HOYX1 in 0.52s | Score: 10.04
+2025-11-28 18:03:28,341 - INFO - [OCR] Winner: 'Khcru Dreaumaw' (Score 0.6). Total: 0.16s
+2025-11-28 18:03:28,342 - INFO - [Librarian] API Lookup: Khcru Dreaumaw
+2025-11-28 18:03:29,212 - WARNING - Invalid text: Khcru Dreaumaw
+2025-11-28 18:03:31,902 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.16s
+2025-11-28 18:03:33,092 - INFO - [OCR] Winner: 'of Boon Erebos' (Score 0.6). Total: 0.09s
+2025-11-28 18:03:33,093 - INFO - [Librarian] API Lookup: of Boon Erebos
+2025-11-28 18:03:34,488 - INFO - New Collection Entry: Boon of Erebos
+2025-11-28 18:03:34,501 - INFO - [Librarian] Processed 213UE in 1.50s | Score: 13.92
+2025-11-28 18:03:34,700 - INFO - [OCR] Winner: 'of Boon Erebos' (Score 0.6). Total: 0.10s
+2025-11-28 18:03:35,329 - INFO - [OCR] Winner: 'of Boon Erebos' (Score 0.6). Total: 0.09s
+2025-11-28 18:03:36,526 - INFO - [OCR] Winner: 'Boon' (Score 0.4). Total: 0.09s
+2025-11-28 18:03:37,706 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:03:40,066 - INFO - [OCR] Winner: 'Dark Danishing' (Score 0.7). Total: 0.15s
+2025-11-28 18:03:40,067 - INFO - [Librarian] API Lookup: Dark Danishing
+2025-11-28 18:03:41,000 - INFO - New Collection Entry: Dark Banishing
+2025-11-28 18:03:41,013 - INFO - [Librarian] Processed BR07W in 1.10s | Score: 13.82
+2025-11-28 18:03:41,259 - INFO - [OCR] Winner: 'Dark Danishing' (Score 0.6). Total: 0.13s
+2025-11-28 18:03:42,556 - INFO - [OCR] Winner: 'Dark Danishing' (Score 0.7). Total: 0.15s
+2025-11-28 18:03:42,561 - INFO - [Librarian] Cache Hit: Dark Danishing -> dark banishing
+2025-11-28 18:03:42,568 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\DarkBanishing_1764381820_BR07W.jpg
+2025-11-28 18:03:42,570 - INFO - Updated Collection ID BR07W -> Dark Banishing
+2025-11-28 18:03:42,586 - INFO - [Librarian] Processed BR07W in 0.18s | Score: 13.94
+2025-11-28 18:03:43,675 - INFO - [OCR] Winner: 'Dark Danishing' (Score 0.6). Total: 0.10s
+2025-11-28 18:03:44,959 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:03:46,209 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:03:47,411 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:03:48,670 - INFO - [OCR] Winner: 'Debilitating Injury 1' (Score 0.7). Total: 0.12s
+2025-11-28 18:03:48,671 - INFO - [Librarian] API Lookup: Debilitating Injury 1
+2025-11-28 18:03:49,631 - INFO - New Collection Entry: Debilitating Injury
+2025-11-28 18:03:49,644 - INFO - [Librarian] Processed 5668V in 1.09s | Score: 20.36
+2025-11-28 18:03:49,985 - INFO - [OCR] Winner: 'Debilitating Injury' (Score 0.7). Total: 0.13s
+2025-11-28 18:03:51,187 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:03:52,446 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:03:54,953 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:03:56,176 - INFO - [OCR] Winner: '5 E' (Score 0.3). Total: 0.14s
+2025-11-28 18:03:56,177 - INFO - [Librarian] API Lookup: 5 E
+2025-11-28 18:03:57,409 - WARNING - Invalid text: 5 E
+2025-11-28 18:03:57,502 - INFO - [OCR] Winner: '[estering Goblln' (Score 0.5). Total: 0.09s
+2025-11-28 18:03:57,509 - INFO - [Librarian] API Lookup: [estering Goblln
+2025-11-28 18:03:58,146 - WARNING - Invalid text: [estering Goblln
+2025-11-28 18:03:58,614 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.7). Total: 0.12s
+2025-11-28 18:03:58,616 - INFO - [Librarian] API Lookup: Festering Goblin
+2025-11-28 18:03:58,787 - INFO - New Collection Entry: Festering Goblin
+2025-11-28 18:03:58,800 - INFO - [Librarian] Processed QLCAA in 0.31s | Score: 15.97
+2025-11-28 18:03:59,737 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.7). Total: 0.10s
+2025-11-28 18:03:59,738 - INFO - [Librarian] Cache Hit: Festering Goblin -> festering goblin
+2025-11-28 18:03:59,745 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\FesteringGoblin_1764381838_QLCAA.jpg
+2025-11-28 18:03:59,746 - INFO - Updated Collection ID QLCAA -> Festering Goblin
+2025-11-28 18:03:59,758 - INFO - [Librarian] Processed QLCAA in 0.12s | Score: 16.00
+2025-11-28 18:04:00,996 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.7). Total: 0.10s
+2025-11-28 18:04:02,176 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.6). Total: 0.08s
+2025-11-28 18:04:03,351 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:04:04,617 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:05,810 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:06,945 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.7). Total: 0.12s
+2025-11-28 18:04:06,946 - INFO - [Librarian] Cache Hit: Festering Goblin -> festering goblin
+2025-11-28 18:04:06,954 - INFO - New Collection Entry: Festering Goblin
+2025-11-28 18:04:06,971 - INFO - [Librarian] Processed CB09V in 0.14s | Score: 15.27
+2025-11-28 18:04:08,133 - INFO - [OCR] Winner: 'Festering Goblin' (Score 0.7). Total: 0.08s
+2025-11-28 18:04:08,133 - INFO - [Librarian] Cache Hit: Festering Goblin -> festering goblin
+2025-11-28 18:04:08,146 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\FesteringGoblin_1764381846_CB09V.jpg
+2025-11-28 18:04:08,147 - INFO - Updated Collection ID CB09V -> Festering Goblin
+2025-11-28 18:04:08,159 - INFO - [Librarian] Processed CB09V in 0.10s | Score: 15.99
+2025-11-28 18:04:09,222 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:04:10,525 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:12,837 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:04:14,063 - INFO - [OCR] Winner: '1 Banewasp Affliction' (Score 0.7). Total: 0.15s
+2025-11-28 18:04:14,064 - INFO - [Librarian] API Lookup: 1 Banewasp Affliction
+2025-11-28 18:04:14,778 - INFO - New Collection Entry: Banewasp Affliction
+2025-11-28 18:04:14,797 - INFO - [Librarian] Processed WVU6F in 0.89s | Score: 16.15
+2025-11-28 18:04:15,248 - INFO - [OCR] Winner: 'Banewasp Affliction' (Score 0.7). Total: 0.13s
+2025-11-28 18:04:15,258 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\BanewaspAffliction_1764381854_WVU6F.jpg
+2025-11-28 18:04:15,259 - INFO - Updated Collection ID WVU6F -> Banewasp Affliction
+2025-11-28 18:04:15,270 - INFO - [Librarian] Processed WVU6F in 0.15s | Score: 16.70
+2025-11-28 18:04:16,509 - INFO - [OCR] Winner: '1 Banewasp Alfliction' (Score 0.7). Total: 0.16s
+2025-11-28 18:04:16,509 - INFO - [Librarian] API Lookup: 1 Banewasp Alfliction
+2025-11-28 18:04:16,997 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\BanewaspAffliction_1764381855_WVU6F.jpg
+2025-11-28 18:04:16,997 - INFO - Updated Collection ID WVU6F -> Banewasp Affliction
+2025-11-28 18:04:17,014 - INFO - [Librarian] Processed WVU6F in 0.67s | Score: 17.23
+2025-11-28 18:04:17,649 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:18,812 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:20,026 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:21,185 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:04:21,186 - INFO - [Librarian] API Lookup: Dreadbringer Lampads
+2025-11-28 18:04:21,606 - INFO - New Collection Entry: Dreadbringer Lampads
+2025-11-28 18:04:21,619 - INFO - [Librarian] Processed LUE1G in 0.50s | Score: 19.75
+2025-11-28 18:04:22,316 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:04:23,625 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:04:24,711 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:27,101 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:28,469 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:04:28,470 - INFO - [Librarian] API Lookup: of Font Return
+2025-11-28 18:04:29,141 - INFO - New Collection Entry: Font of Return
+2025-11-28 18:04:29,153 - INFO - [Librarian] Processed 2ZBQB in 0.75s | Score: 13.91
+2025-11-28 18:04:29,594 - INFO - [OCR] Winner: '0f Font Return' (Score 0.5). Total: 0.12s
+2025-11-28 18:04:30,844 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:04:32,006 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:34,593 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:35,848 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:37,099 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:04:38,360 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:04:39,632 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:04:40,769 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:04:40,770 - INFO - [Librarian] API Lookup: Mental Agony
+2025-11-28 18:04:41,101 - INFO - New Collection Entry: Mental Agony
+2025-11-28 18:04:41,114 - INFO - [Librarian] Processed QAEV7 in 0.41s | Score: 11.82
+2025-11-28 18:04:41,968 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:04:43,237 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:04:51,827 - INFO - [OCR] Winner: 'Ialfen (3' (Score 0.3). Total: 0.17s
+2025-11-28 18:04:51,828 - INFO - [Librarian] API Lookup: Ialfen (3
+2025-11-28 18:04:52,663 - WARNING - Invalid text: Ialfen (3
+2025-11-28 18:04:53,016 - INFO - [OCR] Winner: 'Flallen' (Score 0.3). Total: 0.13s
+2025-11-28 18:04:53,018 - INFO - [Librarian] API Lookup: Flallen
+2025-11-28 18:04:53,753 - WARNING - Invalid text: Flallen
+2025-11-28 18:04:54,225 - INFO - [OCR] Winner: 'latien 3' (Score 0.4). Total: 0.14s
+2025-11-28 18:04:54,226 - INFO - [Librarian] API Lookup: latien 3
+2025-11-28 18:04:56,502 - WARNING - Invalid text: latien 3
+2025-11-28 18:04:56,637 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 18:04:56,775 - INFO - [OCR] Winner: 'alten' (Score 0.3). Total: 0.14s
+2025-11-28 18:04:56,777 - INFO - [Librarian] API Lookup: alten
+2025-11-28 18:04:58,143 - WARNING - Invalid text: alten
+2025-11-28 18:04:58,262 - INFO - [OCR] Winner: 'Flztten' (Score 0.4). Total: 0.12s
+2025-11-28 18:04:58,263 - INFO - [Librarian] API Lookup: Flztten
+2025-11-28 18:04:58,975 - WARNING - Invalid text: Flztten
+2025-11-28 18:04:59,112 - INFO - [OCR] Winner: 'Flatien' (Score 0.5). Total: 0.13s
+2025-11-28 18:04:59,113 - INFO - [Librarian] API Lookup: Flatien
+2025-11-28 18:05:00,560 - WARNING - Invalid text: Flatien
+2025-11-28 18:05:00,679 - INFO - [OCR] Winner: 'Iallen 3' (Score 0.3). Total: 0.11s
+2025-11-28 18:05:00,680 - INFO - [Librarian] API Lookup: Iallen 3
+2025-11-28 18:05:04,663 - WARNING - Invalid text: Iallen 3
+2025-11-28 18:05:04,773 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:05:04,866 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:05:04,967 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:05:05,024 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:05:05,026 - INFO - [Librarian] API Lookup: Fatien
+2025-11-28 18:05:05,849 - WARNING - Invalid text: Fatien
+2025-11-28 18:05:06,152 - INFO - [OCR] Winner: 'Flatlen' (Score 0.4). Total: 0.08s
+2025-11-28 18:05:06,154 - INFO - [Librarian] API Lookup: Flatlen
+2025-11-28 18:05:07,443 - WARNING - Invalid text: Flatlen
+2025-11-28 18:05:15,570 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:05:16,877 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.15s
+2025-11-28 18:05:18,160 - INFO - [OCR] Winner: 'Flatren' (Score 0.3). Total: 0.17s
+2025-11-28 18:05:19,219 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:05:19,220 - INFO - [Librarian] API Lookup: Flatten
+2025-11-28 18:05:19,412 - INFO - New Collection Entry: Flatten
+2025-11-28 18:05:19,426 - INFO - [Librarian] Processed MY5C7 in 0.25s | Score: 6.97
+2025-11-28 18:05:20,379 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:05:21,539 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:05:22,744 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:05:27,723 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 18:05:29,005 - INFO - [OCR] Winner: 'Dralnpipe Vermln' (Score 0.6). Total: 0.13s
+2025-11-28 18:05:29,005 - INFO - [Librarian] API Lookup: Dralnpipe Vermln
+2025-11-28 18:05:29,657 - WARNING - Invalid text: Dralnpipe Vermln
+2025-11-28 18:05:30,139 - INFO - [OCR] Winner: 'Dralnpipe Vermin' (Score 0.5). Total: 0.14s
+2025-11-28 18:05:30,146 - INFO - [Librarian] API Lookup: Dralnpipe Vermin
+2025-11-28 18:05:30,677 - INFO - New Collection Entry: Drainpipe Vermin
+2025-11-28 18:05:30,689 - INFO - [Librarian] Processed F3ZHY in 0.69s | Score: 9.89
+2025-11-28 18:05:31,333 - INFO - [OCR] Winner: 'Drainpipe Vermln' (Score 0.7). Total: 0.11s
+2025-11-28 18:05:31,334 - INFO - [Librarian] API Lookup: Drainpipe Vermln
+2025-11-28 18:05:31,797 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\DrainpipeVermin_1764381930_F3ZHY.jpg
+2025-11-28 18:05:31,798 - INFO - Updated Collection ID F3ZHY -> Drainpipe Vermin
+2025-11-28 18:05:31,811 - INFO - [Librarian] Processed F3ZHY in 0.59s | Score: 14.21
+2025-11-28 18:05:32,581 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:05:33,682 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:05:41,026 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:05:42,302 - INFO - [OCR] Winner: 'Orcish Conscripes' (Score 0.6). Total: 0.16s
+2025-11-28 18:05:42,302 - INFO - [Librarian] API Lookup: Orcish Conscripes
+2025-11-28 18:05:43,634 - INFO - New Collection Entry: Orcish Conscripts
+2025-11-28 18:05:43,646 - INFO - [Librarian] Processed J4SG4 in 1.51s | Score: 11.17
+2025-11-28 18:05:43,830 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:05:44,722 - INFO - [OCR] Winner: 'Orcish ConscripLs' (Score 0.6). Total: 0.12s
+2025-11-28 18:05:44,723 - INFO - [Librarian] API Lookup: Orcish ConscripLs
+2025-11-28 18:05:46,024 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\OrcishConscripts_1764381943_J4SG4.jpg
+2025-11-28 18:05:46,025 - INFO - Updated Collection ID J4SG4 -> Orcish Conscripts
+2025-11-28 18:05:46,038 - INFO - [Librarian] Processed J4SG4 in 1.43s | Score: 11.40
+2025-11-28 18:05:46,237 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:05:46,975 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:05:51,952 - INFO - [OCR] Winner: 'Lava Ac' (Score 0.4). Total: 0.18s
+2025-11-28 18:05:51,953 - INFO - [Librarian] API Lookup: Lava Ac
+2025-11-28 18:05:52,540 - WARNING - Invalid text: Lava Ac
+2025-11-28 18:05:53,048 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:05:54,315 - INFO - [OCR] Winner: 'Lava Ac' (Score 0.4). Total: 0.14s
+2025-11-28 18:05:55,437 - INFO - [OCR] Winner: 'Lava Arc' (Score 0.4). Total: 0.12s
+2025-11-28 18:05:55,438 - INFO - [Librarian] API Lookup: Lava Arc
+2025-11-28 18:05:55,956 - WARNING - Invalid text: Lava Arc
+2025-11-28 18:05:56,672 - INFO - [OCR] Winner: 'Iava Alc 4' (Score 0.4). Total: 0.17s
+2025-11-28 18:05:56,674 - INFO - [Librarian] API Lookup: Iava Alc 4
+2025-11-28 18:05:58,213 - WARNING - Invalid text: Iava Alc 4
+2025-11-28 18:05:58,378 - INFO - [OCR] Winner: 'Hc Lava' (Score 0.5). Total: 0.16s
+2025-11-28 18:05:58,379 - INFO - [Librarian] API Lookup: Hc Lava
+2025-11-28 18:05:59,847 - WARNING - Invalid text: Hc Lava
+2025-11-28 18:06:00,014 - INFO - [OCR] Winner: 'Lava Ac' (Score 0.5). Total: 0.16s
+2025-11-28 18:06:00,241 - INFO - [OCR] Winner: 'Ac Lava' (Score 0.5). Total: 0.12s
+2025-11-28 18:06:00,242 - INFO - [Librarian] API Lookup: Ac Lava
+2025-11-28 18:06:00,808 - WARNING - Invalid text: Ac Lava
+2025-11-28 18:06:01,352 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:02,541 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:06:03,656 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:04,919 - INFO - [OCR] Winner: 'Lava Hoc' (Score 0.3). Total: 0.14s
+2025-11-28 18:06:06,029 - INFO - [OCR] Winner: 'Lava Acc 4' (Score 0.4). Total: 0.12s
+2025-11-28 18:06:06,030 - INFO - [Librarian] API Lookup: Lava Acc 4
+2025-11-28 18:06:07,219 - WARNING - Invalid text: Lava Acc 4
+2025-11-28 18:06:07,332 - INFO - [OCR] Winner: 'Lava Acc' (Score 0.3). Total: 0.11s
+2025-11-28 18:06:08,389 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:06:09,604 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:06:10,720 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:06:11,928 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:13,241 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.20s
+2025-11-28 18:06:14,336 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:15,608 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.18s
+2025-11-28 18:06:16,796 - INFO - [OCR] Winner: 'Lv Ac' (Score 0.3). Total: 0.18s
+2025-11-28 18:06:16,798 - INFO - [Librarian] API Lookup: Lv Ac
+2025-11-28 18:06:18,141 - WARNING - Invalid text: Lv Ac
+2025-11-28 18:06:18,216 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:06:19,132 - INFO - [OCR] Winner: 'Lava At' (Score 0.3). Total: 0.13s
+2025-11-28 18:06:20,286 - INFO - [OCR] Winner: 'Lav Ac' (Score 0.3). Total: 0.17s
+2025-11-28 18:06:20,288 - INFO - [Librarian] API Lookup: Lav Ac
+2025-11-28 18:06:20,962 - WARNING - Invalid text: Lav Ac
+2025-11-28 18:06:21,497 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:22,786 - INFO - [OCR] Winner: 'Hrc Lava' (Score 0.4). Total: 0.17s
+2025-11-28 18:06:22,788 - INFO - [Librarian] API Lookup: Hrc Lava
+2025-11-28 18:06:24,804 - WARNING - Invalid text: Hrc Lava
+2025-11-28 18:06:24,972 - INFO - [OCR] Winner: 'Ac Lava' (Score 0.4). Total: 0.16s
+2025-11-28 18:06:25,175 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:06:26,504 - INFO - [OCR] Winner: 'Lav Arc' (Score 0.3). Total: 0.20s
+2025-11-28 18:06:26,505 - INFO - [Librarian] API Lookup: Lav Arc
+2025-11-28 18:06:27,825 - WARNING - Invalid text: Lav Arc
+2025-11-28 18:06:28,018 - INFO - [OCR] Winner: 'Ac Lava' (Score 0.4). Total: 0.18s
+2025-11-28 18:06:29,001 - INFO - [OCR] Winner: 'Lava Ac' (Score 0.3). Total: 0.19s
+2025-11-28 18:06:29,998 - INFO - [OCR] Winner: 'LavaArc' (Score 0.4). Total: 0.09s
+2025-11-28 18:06:29,999 - INFO - [Librarian] API Lookup: LavaArc
+2025-11-28 18:06:31,034 - WARNING - Invalid text: LavaArc
+2025-11-28 18:06:31,255 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:06:32,412 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 18:06:33,624 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:06:34,711 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:06:39,548 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.16s
+2025-11-28 18:06:40,644 - INFO - [OCR] Winner: 'Tc Liva' (Score 0.4). Total: 0.12s
+2025-11-28 18:06:40,645 - INFO - [Librarian] API Lookup: Tc Liva
+2025-11-28 18:06:41,118 - WARNING - Invalid text: Tc Liva
+2025-11-28 18:06:41,970 - INFO - [OCR] Winner: 'Lava Arc' (Score 0.4). Total: 0.18s
+2025-11-28 18:06:43,048 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:06:45,474 - INFO - [OCR] Winner: 'Ppous uena' (Score 0.4). Total: 0.21s
+2025-11-28 18:06:45,475 - INFO - [Librarian] API Lookup: Ppous uena
+2025-11-28 18:06:46,128 - WARNING - Invalid text: Ppous uena
+2025-11-28 18:06:46,601 - INFO - [OCR] Winner: 'Lava Axc' (Score 0.3). Total: 0.14s
+2025-11-28 18:06:47,748 - INFO - [OCR] Winner: 'Ase Lava' (Score 0.4). Total: 0.13s
+2025-11-28 18:06:47,757 - INFO - [Librarian] API Lookup: Ase Lava
+2025-11-28 18:06:48,673 - INFO - New Collection Entry: Lava Serpent
+2025-11-28 18:06:48,688 - INFO - [Librarian] Processed LRP20 in 1.07s | Score: 4.66
+2025-11-28 18:06:48,937 - INFO - [OCR] Winner: 'Arc Lava' (Score 0.4). Total: 0.15s
+2025-11-28 18:06:48,937 - INFO - [Librarian] API Lookup: Arc Lava
+2025-11-28 18:06:49,502 - WARNING - Invalid text: Arc Lava
+2025-11-28 18:06:50,039 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:06:51,239 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:06:52,474 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:06:53,663 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:06:54,791 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:06:56,164 - INFO - [OCR] Winner: ''ppoos' (Score 0.4). Total: 0.14s
+2025-11-28 18:06:57,364 - INFO - [OCR] Winner: ''ppoos' (Score 0.4). Total: 0.13s
+2025-11-28 18:06:58,631 - INFO - [OCR] Winner: 'Lava Axc' (Score 0.5). Total: 0.14s
+2025-11-28 18:06:58,633 - INFO - [Librarian] API Lookup: Lava Axc
+2025-11-28 18:06:59,094 - INFO - Deleted old scan: D:\CSPractice\Live_image_detect\data\scans\LavaSerpent_1764382008_LRP20.jpg
+2025-11-28 18:06:59,094 - INFO - Updated Collection ID LRP20 -> Lava Axe
+2025-11-28 18:06:59,106 - INFO - [Librarian] Processed LRP20 in 0.61s | Score: 6.37
+2025-11-28 18:06:59,779 - INFO - [OCR] Winner: 'Lava Arc' (Score 0.4). Total: 0.13s
+2025-11-28 18:07:01,061 - INFO - [OCR] Winner: 'Lava Arc' (Score 0.4). Total: 0.11s
+2025-11-28 18:07:02,307 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:07:03,534 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:07:04,808 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:07:06,087 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:07:12,137 - INFO - [OCR] Winner: 'Duarvco' (Score 0.3). Total: 0.13s
+2025-11-28 18:07:13,319 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:07:14,566 - INFO - [OCR] Winner: 'Dwarven Warriors' (Score 0.6). Total: 0.13s
+2025-11-28 18:07:14,567 - INFO - [Librarian] API Lookup: Dwarven Warriors
+2025-11-28 18:07:14,865 - INFO - New Collection Entry: Dwarven Warriors
+2025-11-28 18:07:14,883 - INFO - [Librarian] Processed C73KI in 0.44s | Score: 12.02
+2025-11-28 18:07:15,682 - INFO - [OCR] Winner: 'warven Warriors' (Score 0.6). Total: 0.14s
+2025-11-28 18:07:16,754 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:07:17,977 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:07:47,209 - INFO - Starting Dashboard Mode...
+2025-11-28 18:19:28,246 - INFO - Starting Dashboard...
+2025-11-28 18:20:31,473 - INFO - Starting Scanner...
+2025-11-28 18:20:31,578 - INFO - Initializing EasyOCR Engine (GPU)...
+2025-11-28 18:20:32,735 - INFO - Librarian Service Started.
+2025-11-28 18:20:51,724 - INFO - [OCR] Winner: '46 the Underworld' (Score 0.6). Total: 0.22s
+2025-11-28 18:20:53,270 - INFO - [OCR] Winner: 'Rescue from the Underworld 4' (Score 0.8). Total: 0.14s
+2025-11-28 18:20:54,176 - INFO - [OCR] Winner: 'Rescue from the Underworld' (Score 0.8). Total: 0.11s
+2025-11-28 18:20:55,423 - INFO - [OCR] Winner: 'Rescue from the Underworld 42' (Score 0.9). Total: 0.14s
+2025-11-28 18:20:56,573 - INFO - [OCR] Winner: 'Rescue from the Underworld 40' (Score 0.8). Total: 0.09s
+2025-11-28 18:20:57,832 - INFO - [OCR] Winner: 'Rescue from the Underworld 4' (Score 0.8). Total: 0.15s
+2025-11-28 18:20:59,058 - INFO - [OCR] Winner: 'Rescue from the Underworld 4' (Score 0.8). Total: 0.12s
+2025-11-28 18:21:00,172 - INFO - [OCR] Winner: 'Rescue from the Underworld 4' (Score 0.8). Total: 0.12s
+2025-11-28 18:21:01,355 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:21:06,246 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:21:07,431 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:21:08,726 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:21:09,901 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:21:11,275 - INFO - [OCR] Winner: 'Terashi"s Grasp' (Score 0.5). Total: 0.30s
+2025-11-28 18:21:12,354 - INFO - [OCR] Winner: 'nd Ronsd' (Score 0.3). Total: 0.21s
+2025-11-28 18:21:13,442 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:21:17,801 - INFO - Starting Dashboard...
+2025-11-28 18:38:02,149 - INFO - Starting Dashboard...
+2025-11-28 18:41:36,986 - INFO - Starting Dashboard...
+2025-11-28 18:43:30,340 - INFO - Starting Scanner...
+2025-11-28 18:43:30,440 - INFO - Initializing EasyOCR Engine (GPU)...
+2025-11-28 18:43:31,577 - INFO - Librarian Service Started.
+2025-11-28 18:43:42,935 - INFO - [OCR] Rot-CW     | Time: 0.28s | Conf: 0.67 | Text: '5 1 2 8 9 2 3 3 1'
+2025-11-28 18:43:42,981 - INFO - [OCR] Winner: '5 1 2 8 9 2 3 3 1' (Score 0.3). Total: 0.33s
+2025-11-28 18:43:48,622 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:43:48,915 - INFO - [Librarian] Processed 8W78G in 17.34s
+2025-11-28 18:43:49,099 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:43:49,172 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:43:49,234 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:43:49,285 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:43:49,365 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:43:49,757 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:43:50,769 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:43:51,828 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:43:52,813 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:43:53,766 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:43:54,725 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:43:55,796 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:43:56,749 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:00,936 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.13s
+2025-11-28 18:44:01,996 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:44:02,198 - INFO - [Librarian] Processed 54RHR in 30.62s
+2025-11-28 18:44:03,026 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:44:03,046 - INFO - [Librarian] Processed 54RHR in 31.47s
+2025-11-28 18:44:04,048 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:04,984 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:06,040 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:07,032 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:44:08,005 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:09,010 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:44:10,147 - INFO - [OCR] Winner: 'Husk' (Score 0.4). Total: 0.20s
+2025-11-28 18:44:11,093 - INFO - [OCR] Winner: 'Husk' (Score 0.5). Total: 0.17s
+2025-11-28 18:44:12,142 - INFO - [OCR] Winner: 'Husk' (Score 0.4). Total: 0.17s
+2025-11-28 18:44:13,046 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.15s
+2025-11-28 18:44:14,010 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:44:14,977 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:15,952 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:17,027 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:19,033 - INFO - [OCR] Early Exit (Upright). Total: 0.09s
+2025-11-28 18:44:19,935 - INFO - [Librarian] Processed WDL7J in 48.36s
+2025-11-28 18:44:20,116 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:44:20,137 - INFO - [Librarian] Processed WDL7J in 48.56s
+2025-11-28 18:44:21,001 - INFO - [OCR] Early Exit (Upright). Total: 0.09s
+2025-11-28 18:44:21,026 - INFO - [Librarian] Processed WDL7J in 49.45s
+2025-11-28 18:44:22,117 - INFO - [OCR] Early Exit (Upright). Total: 0.11s
+2025-11-28 18:44:22,974 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:23,928 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:44:25,067 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:26,042 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:44:27,016 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:27,927 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:44:29,019 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:44:29,976 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:30,937 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:31,991 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:32,949 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:36,007 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.14s
+2025-11-28 18:44:36,992 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:44:37,417 - INFO - [Librarian] Processed FO85D in 65.84s
+2025-11-28 18:44:38,087 - INFO - [OCR] Early Exit (Upright). Total: 0.12s
+2025-11-28 18:44:38,939 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:44:40,022 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:40,944 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:44:42,014 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:42,993 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:43,973 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:44,940 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:44:46,016 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:44:46,974 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:44:48,071 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:49,055 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:44:51,603 - INFO - Starting Dashboard...
+2025-11-28 18:45:09,850 - INFO - Starting Scanner...
+2025-11-28 18:45:09,947 - INFO - Initializing EasyOCR Engine (GPU)...
+2025-11-28 18:45:11,099 - INFO - Librarian Service Started.
+2025-11-28 18:45:22,289 - INFO - [OCR] Upright    | Time: 0.23s | Conf: 0.53 | Text: 'Spidersilk Nef'
+2025-11-28 18:45:22,487 - INFO - [OCR] Winner: 'Spidersilk Nef' (Score 0.5). Total: 0.43s
+2025-11-28 18:45:23,188 - INFO - [Librarian] Processed O2VRM in 12.09s
+2025-11-28 18:45:23,366 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:23,391 - INFO - [Librarian] Processed O2VRM in 12.29s
+2025-11-28 18:45:24,200 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:45:25,229 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:26,273 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:45:27,248 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:45:30,261 - INFO - [OCR] Winner: 'Vz' (Score 0.4). Total: 0.10s
+2025-11-28 18:45:35,505 - INFO - [Librarian] Processed 3AJPQ in 24.40s
+2025-11-28 18:45:35,761 - INFO - [OCR] Winner: 'Bronze Sable' (Score 0.5). Total: 0.13s
+2025-11-28 18:45:35,919 - INFO - [Librarian] Processed 3AJPQ in 24.82s
+2025-11-28 18:45:36,111 - INFO - [OCR] Winner: 'Dronzc Sable' (Score 0.4). Total: 0.09s
+2025-11-28 18:45:36,183 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:45:36,232 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:45:38,336 - INFO - [Librarian] Processed 3AJPQ in 27.24s
+2025-11-28 18:45:38,523 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:45:38,546 - INFO - [Librarian] Processed 3AJPQ in 27.45s
+2025-11-28 18:45:38,716 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:38,781 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:45:38,870 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:45:39,503 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:45:40,541 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:45:44,656 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:46,070 - INFO - [OCR] Early Exit (Upright). Total: 0.15s
+2025-11-28 18:45:46,694 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:47,730 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:45:48,782 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:49,764 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:45:50,692 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:45:51,841 - INFO - [OCR] Early Exit (Upright). Total: 0.15s
+2025-11-28 18:45:52,850 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:45:53,779 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:54,847 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:45:55,134 - INFO - [Librarian] Processed 2YZ8K in 44.03s
+2025-11-28 18:45:55,849 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:45:55,869 - INFO - [Librarian] Processed 2YZ8K in 44.77s
+2025-11-28 18:45:56,846 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:45:57,971 - INFO - [OCR] Upright    | Time: 0.24s | Conf: 0.61 | Text: 'Myr Enforcer'
+2025-11-28 18:45:58,094 - INFO - [OCR] Winner: 'Myr Enforcer' (Score 0.5). Total: 0.36s
+2025-11-28 18:45:59,010 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:46:00,101 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:46:01,036 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:11,356 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:46:12,305 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:46:14,125 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:46:14,740 - INFO - [Librarian] Processed ATV63 in 63.64s
+2025-11-28 18:46:14,987 - INFO - [OCR] Winner: 'Bonded Consiruct' (Score 0.6). Total: 0.14s
+2025-11-28 18:46:15,270 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:15,294 - INFO - [Librarian] Processed ATV63 in 64.19s
+2025-11-28 18:46:16,316 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:17,364 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:46:18,296 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:46:19,249 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:22,424 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:46:23,429 - INFO - [OCR] Winner: 'Donded Construci' (Score 0.5). Total: 0.14s
+2025-11-28 18:46:24,400 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:46:25,320 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:26,426 - INFO - [OCR] Winner: 'Donded Construct' (Score 0.5). Total: 0.14s
+2025-11-28 18:46:27,001 - INFO - [Librarian] Processed 21YUF in 75.90s
+2025-11-28 18:46:27,389 - INFO - [OCR] Winner: 'Bonded Construct' (Score 0.6). Total: 0.16s
+2025-11-28 18:46:27,414 - INFO - [Librarian] Processed 21YUF in 76.31s
+2025-11-28 18:46:28,374 - INFO - [OCR] Winner: 'Iz' (Score 0.2). Total: 0.08s
+2025-11-28 18:46:29,317 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:46:30,268 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:46:31,410 - INFO - [OCR] Winner: 'of ahe Tmve Cusiodlun' (Score 0.5). Total: 0.12s
+2025-11-28 18:46:32,511 - INFO - [OCR] Winner: 'Custodian of the Trove' (Score 0.6). Total: 0.22s
+2025-11-28 18:46:32,869 - INFO - [Librarian] Processed ENDN3 in 81.77s
+2025-11-28 18:46:33,398 - INFO - [OCR] Winner: 'Custodian 0f the Trove' (Score 0.6). Total: 0.10s
+2025-11-28 18:46:35,213 - INFO - [Librarian] Processed ENDN3 in 84.11s
+2025-11-28 18:46:35,528 - INFO - [OCR] Winner: 'Custodian ol the Trove' (Score 0.7). Total: 0.20s
+2025-11-28 18:46:36,315 - INFO - [Librarian] Processed ENDN3 in 85.21s
+2025-11-28 18:46:36,544 - INFO - [OCR] Winner: 'Custodian 0f the Trove' (Score 0.6). Total: 0.12s
+2025-11-28 18:46:36,647 - INFO - [OCR] Winner: 'siz' (Score 0.2). Total: 0.10s
+2025-11-28 18:46:37,340 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:46:38,284 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:44,339 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:46:44,451 - INFO - [OCR] Winner: 'Selesnja Signet' (Score 0.6). Total: 0.11s
+2025-11-28 18:46:45,155 - INFO - [Librarian] Processed 9LQQQ in 94.06s
+2025-11-28 18:46:45,323 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:45,396 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:46,305 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:46,856 - INFO - [Librarian] Processed 71BJP in 95.76s
+2025-11-28 18:46:47,005 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:48,812 - INFO - [Librarian] Processed 9LQQQ in 97.71s
+2025-11-28 18:46:48,991 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:46:49,065 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:46:50,121 - INFO - [Librarian] Processed 9LQQQ in 99.02s
+2025-11-28 18:46:50,339 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:46:50,403 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:50,428 - INFO - [Librarian] Processed 71BJP in 99.33s
+2025-11-28 18:46:50,580 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:51,391 - INFO - [Librarian] Processed 9LQQQ in 100.29s
+2025-11-28 18:46:51,642 - INFO - [OCR] Winner: 'Bronze Sable' (Score 0.5). Total: 0.15s
+2025-11-28 18:46:51,662 - INFO - [Librarian] Processed FC2HQ in 100.56s
+2025-11-28 18:46:51,822 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:51,880 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:51,931 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:51,942 - INFO - [Librarian] Processed FC2HQ in 100.84s
+2025-11-28 18:46:52,098 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:52,121 - INFO - [Librarian] Processed 71BJP in 101.02s
+2025-11-28 18:46:52,268 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:52,293 - INFO - [Librarian] Processed 9LQQQ in 101.19s
+2025-11-28 18:46:52,461 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:46:52,623 - INFO - [OCR] Winner: 'Cronze Sable' (Score 0.5). Total: 0.16s
+2025-11-28 18:46:52,670 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:52,714 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:52,734 - INFO - [Librarian] Processed FC2HQ in 101.63s
+2025-11-28 18:46:52,957 - INFO - [OCR] Winner: 'Dronze Sable' (Score 0.5). Total: 0.12s
+2025-11-28 18:46:53,019 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:53,087 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:46:53,550 - INFO - [OCR] Winner: 'Bronze Sable' (Score 0.4). Total: 0.14s
+2025-11-28 18:46:53,648 - INFO - [OCR] Winner: 'Selesnya Signel' (Score 0.6). Total: 0.10s
+2025-11-28 18:46:53,688 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:54,496 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:54,512 - INFO - [Librarian] Processed 71BJP in 103.41s
+2025-11-28 18:46:54,665 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:54,783 - INFO - [OCR] Winner: 'Eronze Sable' (Score 0.4). Total: 0.12s
+2025-11-28 18:46:55,479 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:55,525 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:55,591 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:46:56,477 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:56,548 - INFO - [OCR] Winner: 'Selesnya Signct' (Score 0.6). Total: 0.07s
+2025-11-28 18:46:56,586 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:56,607 - INFO - [Librarian] Processed FC2HQ in 105.51s
+2025-11-28 18:46:57,506 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:57,554 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:57,612 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:46:58,480 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:58,505 - INFO - [Librarian] Processed 71BJP in 107.41s
+2025-11-28 18:46:58,654 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:46:58,673 - INFO - [Librarian] Processed 9LQQQ in 107.57s
+2025-11-28 18:46:58,842 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:46:59,499 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:46:59,588 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:46:59,645 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:00,489 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:00,550 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:00,609 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:01,555 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:47:01,614 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:01,685 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:02,505 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:08,612 - INFO - [OCR] Upright    | Time: 0.21s | Conf: 1.00 | Text: 'Mardu Danner'
+2025-11-28 18:47:08,613 - INFO - [OCR] Early Exit (Upright). Total: 0.21s
+2025-11-28 18:47:09,104 - INFO - [Librarian] Processed M0U8M in 118.00s
+2025-11-28 18:47:09,271 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:09,635 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:09,737 - INFO - [OCR] Winner: 'Ranner' (Score 0.3). Total: 0.10s
+2025-11-28 18:47:10,861 - INFO - [OCR] Winner: 'Mardu Danner' (Score 0.5). Total: 0.08s
+2025-11-28 18:47:10,930 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:11,635 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:11,683 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:12,577 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:12,629 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:13,940 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:13,967 - INFO - [Librarian] Processed M0U8M in 122.87s
+2025-11-28 18:47:14,193 - INFO - [OCR] Winner: 'manner' (Score 0.4). Total: 0.12s
+2025-11-28 18:47:15,101 - INFO - [Librarian] Processed N078R in 124.00s
+2025-11-28 18:47:15,274 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:15,295 - INFO - [Librarian] Processed M0U8M in 124.20s
+2025-11-28 18:47:15,545 - INFO - [OCR] Winner: 'manncr' (Score 0.3). Total: 0.15s
+2025-11-28 18:47:15,608 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:15,701 - INFO - [OCR] Winner: 'Mamner' (Score 0.3). Total: 0.09s
+2025-11-28 18:47:16,621 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:16,707 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:47:17,629 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:17,745 - INFO - [OCR] Winner: 'Ranner' (Score 0.4). Total: 0.12s
+2025-11-28 18:47:18,602 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:18,676 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:19,622 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:19,744 - INFO - [OCR] Winner: 'manner' (Score 0.4). Total: 0.12s
+2025-11-28 18:47:20,672 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:20,745 - INFO - [OCR] Winner: 'Sultai Bunner' (Score 0.5). Total: 0.07s
+2025-11-28 18:47:29,844 - INFO - [Librarian] Removing N078R
+2025-11-28 18:47:41,278 - INFO - [Librarian] Processed N078R in 150.18s
+2025-11-28 18:47:41,600 - INFO - [OCR] Upright    | Time: 0.22s | Conf: 0.98 | Text: 'Mardu Danner'
+2025-11-28 18:47:41,600 - INFO - [OCR] Early Exit (Upright). Total: 0.22s
+2025-11-28 18:47:41,707 - INFO - [OCR] Winner: 'Sulliai Banner' (Score 0.5). Total: 0.11s
+2025-11-28 18:47:41,826 - INFO - [OCR] Winner: 'Mardu Banner' (Score 0.5). Total: 0.12s
+2025-11-28 18:47:41,875 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:43,335 - INFO - [Librarian] Processed N078R in 152.24s
+2025-11-28 18:47:43,494 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:43,557 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:43,670 - INFO - [OCR] Winner: 'Mardu Banner' (Score 0.5). Total: 0.11s
+2025-11-28 18:47:43,792 - INFO - [OCR] Winner: 'Sultai Danner' (Score 0.6). Total: 0.12s
+2025-11-28 18:47:43,833 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:43,904 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:43,947 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:44,012 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:44,051 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:44,140 - INFO - [OCR] Winner: 'Sultai Danner' (Score 0.4). Total: 0.09s
+2025-11-28 18:47:44,215 - INFO - [OCR] Winner: 'Mardu Banner' (Score 0.5). Total: 0.08s
+2025-11-28 18:47:44,258 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:44,351 - INFO - [OCR] Winner: 'Mardu Banner' (Score 0.5). Total: 0.09s
+2025-11-28 18:47:44,403 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:44,452 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:44,538 - INFO - [OCR] Winner: 'Suliai Canner' (Score 0.5). Total: 0.09s
+2025-11-28 18:47:44,580 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:44,656 - INFO - [OCR] Winner: 'Suliai Danner' (Score 0.5). Total: 0.08s
+2025-11-28 18:47:44,698 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:44,752 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:44,803 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:44,858 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:44,908 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:44,964 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:47:45,073 - INFO - [OCR] Winner: 'Mardu Banner' (Score 0.5). Total: 0.11s
+2025-11-28 18:47:45,114 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:45,154 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:45,205 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:45,248 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:45,301 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:46,310 - INFO - [OCR] Winner: 'Mardu Canner' (Score 0.4). Total: 0.09s
+2025-11-28 18:47:46,388 - INFO - [OCR] Winner: 'Suliai Danner' (Score 0.5). Total: 0.08s
+2025-11-28 18:47:46,428 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:46,549 - INFO - [OCR] Winner: 'Sultai Banner' (Score 0.5). Total: 0.12s
+2025-11-28 18:47:46,651 - INFO - [OCR] Winner: 'Mardu Danner' (Score 0.5). Total: 0.10s
+2025-11-28 18:47:46,737 - INFO - [OCR] Winner: 'Suliai Danner' (Score 0.5). Total: 0.09s
+2025-11-28 18:47:46,803 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:46,870 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:46,937 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:46,979 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:47,045 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:47,091 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:47,132 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:47:47,224 - INFO - [OCR] Winner: 'Sulrai Banner' (Score 0.6). Total: 0.09s
+2025-11-28 18:47:47,293 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:47:48,318 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:47:49,347 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:47:56,537 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:47:57,444 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:47:59,141 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:47:59,220 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:47:59,966 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:48:00,073 - INFO - [OCR] Winner: 'Vclerai" Sidearm' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:01,314 - INFO - [OCR] Winner: 'Travelerts Amulet' (Score 0.6). Total: 0.10s
+2025-11-28 18:48:03,114 - INFO - [Librarian] Processed IA63X in 172.01s
+2025-11-28 18:48:03,344 - INFO - [OCR] Winner: 'Veteran's Sidearm' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:04,137 - INFO - [Librarian] Processed 0E5SM in 173.04s
+2025-11-28 18:48:04,392 - INFO - [OCR] Winner: 'Travelers Amulec' (Score 0.6). Total: 0.15s
+2025-11-28 18:48:04,455 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:48:05,871 - INFO - [OCR] Winner: 'Amiulel' (Score 0.3). Total: 0.13s
+2025-11-28 18:48:05,948 - INFO - [OCR] Winner: 'Velerant Sidearmi' (Score 0.6). Total: 0.08s
+2025-11-28 18:48:07,385 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:07,482 - INFO - [OCR] Winner: '5 Vcleran" Sidcarm' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:07,585 - INFO - [OCR] Winner: 'Traveler s Amulet' (Score 0.6). Total: 0.10s
+2025-11-28 18:48:07,681 - INFO - [OCR] Winner: 'Vetcran $ Sidcarm' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:07,751 - INFO - [OCR] Winner: 'Traveler s Amulet' (Score 0.5). Total: 0.07s
+2025-11-28 18:48:07,857 - INFO - [OCR] Winner: '5 Veicran Sidearm' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:07,923 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:07,989 - INFO - [OCR] Winner: '4' (Score 0.2). Total: 0.07s
+2025-11-28 18:48:08,087 - INFO - [OCR] Winner: 'Traveler < Amulet' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:08,153 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:08,196 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:48:08,220 - INFO - [Librarian] Processed IA63X in 177.12s
+2025-11-28 18:48:08,551 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.12s
+2025-11-28 18:48:08,601 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:48:09,533 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:09,624 - INFO - [OCR] Winner: 'Traveler'$ Amulet' (Score 0.5). Total: 0.09s
+2025-11-28 18:48:10,534 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:10,629 - INFO - [OCR] Winner: 'Travelerts Amulet' (Score 0.6). Total: 0.09s
+2025-11-28 18:48:11,529 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:48:11,912 - INFO - [Librarian] Processed 0E5SM in 180.81s
+2025-11-28 18:48:12,119 - INFO - [OCR] Winner: 'Traveler > Amulet' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:12,508 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:12,607 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:48:13,518 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:13,589 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:14,583 - INFO - [OCR] Winner: 'Veteran s Sidcarm' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:14,744 - INFO - [OCR] Winner: 'Traveler S Amulet' (Score 0.5). Total: 0.16s
+2025-11-28 18:48:15,536 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:48:16,043 - INFO - [Librarian] Processed 0E5SM in 184.94s
+2025-11-28 18:48:16,342 - INFO - [OCR] Winner: 'Traveler's Amulet' (Score 0.5). Total: 0.18s
+2025-11-28 18:48:16,409 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:16,573 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:48:16,679 - INFO - [OCR] Winner: 'Traveler's Amulet' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:16,813 - INFO - [OCR] Winner: 'Guardian Auiomaion' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:17,919 - INFO - [OCR] Winner: 'Veteran $ Sidcarm' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:18,073 - INFO - [OCR] Winner: 'Traveler5 Amulet' (Score 0.5). Total: 0.15s
+2025-11-28 18:48:18,139 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:18,598 - INFO - [OCR] Winner: 'Veteran s Sidearm' (Score 0.5). Total: 0.14s
+2025-11-28 18:48:18,710 - INFO - [OCR] Winner: 'Traveler 5 Amulet' (Score 0.6). Total: 0.11s
+2025-11-28 18:48:18,773 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:19,555 - INFO - [OCR] Winner: 'Veleran'S Sidearm' (Score 0.5). Total: 0.14s
+2025-11-28 18:48:19,689 - INFO - [OCR] Winner: 'Traveler'5 Amulet' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:19,754 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:20,458 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:48:20,563 - INFO - [OCR] Winner: 'Traveler'$ Amulet' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:20,639 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:48:21,547 - INFO - [OCR] Winner: 'Veleran'$ Sidearm' (Score 0.6). Total: 0.15s
+2025-11-28 18:48:21,634 - INFO - [OCR] Winner: 'Trveler'5 Amulet' (Score 0.5). Total: 0.09s
+2025-11-28 18:48:21,712 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:48:22,488 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:48:22,586 - INFO - [OCR] Winner: 'Traveler's Amulet' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:22,700 - INFO - [OCR] Winner: 'Guardian Automa' (Score 0.6). Total: 0.11s
+2025-11-28 18:48:23,205 - INFO - [Librarian] Processed EL111 in 192.11s
+2025-11-28 18:48:23,612 - INFO - [OCR] Winner: 'Veleran'$ Sidearm' (Score 0.6). Total: 0.16s
+2025-11-28 18:48:23,655 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:48:23,722 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:24,526 - INFO - [OCR] Winner: 'Velcran's Sidearm' (Score 0.5). Total: 0.13s
+2025-11-28 18:48:24,635 - INFO - [OCR] Winner: 'Traveler s Amulet' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:24,730 - INFO - [OCR] Winner: 'Quardian Aulomalon' (Score 0.6). Total: 0.09s
+2025-11-28 18:48:25,932 - INFO - [OCR] Winner: 'Veterans Sidcarm' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:26,037 - INFO - [OCR] Winner: 'Traveler'5 Amulet' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:26,127 - INFO - [OCR] Winner: 'quardian Aulomalon' (Score 0.6). Total: 0.09s
+2025-11-28 18:48:26,554 - INFO - [OCR] Winner: 'Vcleran's Sidearm' (Score 0.6). Total: 0.10s
+2025-11-28 18:48:26,638 - INFO - [OCR] Winner: 'Trveler's Amulet' (Score 0.6). Total: 0.08s
+2025-11-28 18:48:26,718 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:48:27,518 - INFO - [OCR] Winner: 'Veteran'$ Sidearm' (Score 0.5). Total: 0.12s
+2025-11-28 18:48:27,584 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:27,683 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:48:28,570 - INFO - [OCR] Winner: 'Vetcran'5 Sidearm' (Score 0.5). Total: 0.14s
+2025-11-28 18:48:28,701 - INFO - [OCR] Winner: 'Traveler'5 Amulet' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:28,804 - INFO - [OCR] Winner: 'uardian Aulomaion' (Score 0.6). Total: 0.10s
+2025-11-28 18:48:29,604 - INFO - [OCR] Winner: 'Veleran'$ Sidearm' (Score 0.6). Total: 0.09s
+2025-11-28 18:48:29,706 - INFO - [OCR] Winner: 'Traveler s Amulet' (Score 0.5). Total: 0.10s
+2025-11-28 18:48:29,820 - INFO - [OCR] Winner: '(uardian Automaton' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:30,849 - INFO - [Librarian] Processed JCO03 in 199.75s
+2025-11-28 18:48:30,993 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:48:31,082 - INFO - [OCR] Winner: 'Traveler'5 Amulet' (Score 0.5). Total: 0.09s
+2025-11-28 18:48:31,177 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:48:31,523 - INFO - [OCR] Winner: 'Veleran'5 Sidearm' (Score 0.5). Total: 0.13s
+2025-11-28 18:48:31,605 - INFO - [OCR] Winner: 'Travelers Amulet' (Score 0.6). Total: 0.08s
+2025-11-28 18:48:31,693 - INFO - [OCR] Winner: 'Quardian Automaion' (Score 0.6). Total: 0.09s
+2025-11-28 18:48:32,773 - INFO - [OCR] Winner: 'Veleran' s Sidearm' (Score 0.5). Total: 0.16s
+2025-11-28 18:48:32,902 - INFO - [OCR] Winner: 'Traveler 5 Amulet' (Score 0.4). Total: 0.13s
+2025-11-28 18:48:32,995 - INFO - [OCR] Winner: 'quardian Auomaion' (Score 0.5). Total: 0.09s
+2025-11-28 18:48:34,112 - INFO - [OCR] Winner: 'Veleran's Sidearm' (Score 0.5). Total: 0.13s
+2025-11-28 18:48:34,256 - INFO - [OCR] Winner: 'Traveler's Amulet' (Score 0.5). Total: 0.14s
+2025-11-28 18:48:34,328 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:34,502 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:34,568 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:34,634 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:35,467 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:35,528 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:35,600 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:36,499 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:36,576 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:48:39,634 - INFO - [OCR] Winner: 'ian Automalon' (Score 0.5). Total: 0.16s
+2025-11-28 18:48:40,448 - INFO - [OCR] Winner: 'Traveler S Amulet' (Score 0.6). Total: 0.17s
+2025-11-28 18:48:41,513 - INFO - [Librarian] Processed REO7K in 210.41s
+2025-11-28 18:48:41,814 - INFO - [OCR] Winner: 'Guardian Automaton' (Score 0.6). Total: 0.20s
+2025-11-28 18:48:41,837 - INFO - [Librarian] Processed TNR35 in 210.74s
+2025-11-28 18:48:42,050 - INFO - [OCR] Winner: 'Traveler'S Amulet' (Score 0.5). Total: 0.11s
+2025-11-28 18:48:42,126 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:48:42,252 - INFO - [OCR] Winner: 'Amulet Traveler $' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:43,447 - INFO - [Librarian] Processed REO7K in 212.35s
+2025-11-28 18:48:43,602 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:48:43,627 - INFO - [Librarian] Processed TNR35 in 212.53s
+2025-11-28 18:48:43,791 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:48:44,726 - INFO - [Librarian] Processed REO7K in 213.63s
+2025-11-28 18:48:45,021 - INFO - [OCR] Winner: 'Guardian Automaton' (Score 0.6). Total: 0.19s
+2025-11-28 18:48:45,155 - INFO - [OCR] Winner: 'Traveler $ Amulet' (Score 0.5). Total: 0.13s
+2025-11-28 18:48:45,241 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:48:45,300 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:45,697 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:45,762 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:46,583 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:48:46,640 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:49,717 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.14s
+2025-11-28 18:48:50,720 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:48:51,458 - INFO - [Librarian] Processed IU6RB in 220.36s
+2025-11-28 18:48:51,937 - INFO - [OCR] Winner: 'Veteran S Sidearm' (Score 0.5). Total: 0.25s
+2025-11-28 18:48:52,913 - INFO - [OCR] Winner: 'Veteran $ Sidearm' (Score 0.6). Total: 0.13s
+2025-11-28 18:48:53,842 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:48:54,905 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:48:57,209 - INFO - Starting Dashboard...
+2025-11-28 18:49:25,104 - INFO - Starting Scanner...
+2025-11-28 18:49:25,201 - INFO - Initializing EasyOCR Engine (GPU)...
+2025-11-28 18:49:26,374 - INFO - Librarian Service Started.
+2025-11-28 18:49:37,621 - INFO - [OCR] Upright    | Time: 0.23s | Conf: 0.73 | Text: 'Iron Myr'
+2025-11-28 18:49:37,662 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.27s
+2025-11-28 18:49:38,052 - INFO - [Librarian] Processed D15RG in 11.68s
+2025-11-28 18:49:38,220 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:49:38,642 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.21s
+2025-11-28 18:49:38,694 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:49:39,548 - INFO - [Librarian] Processed FVGVC in 13.17s
+2025-11-28 18:49:39,723 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:39,750 - INFO - [Librarian] Processed D15RG in 13.38s
+2025-11-28 18:49:39,918 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:41,460 - INFO - [Librarian] Processed FVGVC in 15.09s
+2025-11-28 18:49:41,743 - INFO - [OCR] Winner: 'Iron' (Score 0.5). Total: 0.17s
+2025-11-28 18:49:41,805 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:41,911 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.5). Total: 0.11s
+2025-11-28 18:49:41,978 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:49:42,566 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.16s
+2025-11-28 18:49:42,623 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:43,649 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.16s
+2025-11-28 18:49:43,720 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:49:44,524 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:49:44,572 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:49:44,595 - INFO - [Librarian] Processed FVGVC in 18.22s
+2025-11-28 18:49:45,521 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:45,585 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:46,686 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.24s
+2025-11-28 18:49:46,751 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:47,575 - INFO - [OCR] Winner: 'Iron Myr' (Score 0.4). Total: 0.10s
+2025-11-28 18:49:47,635 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:47,656 - INFO - [Librarian] Processed FVGVC in 21.28s
+2025-11-28 18:49:48,621 - INFO - [OCR] Winner: 'Iron Nyr' (Score 0.4). Total: 0.20s
+2025-11-28 18:49:48,684 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:49:49,504 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:49:49,680 - INFO - [OCR] Winner: 'Oread' (Score 0.3). Total: 0.18s
+2025-11-28 18:49:50,503 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:49:50,573 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:49:51,494 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:49:51,567 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:49:57,504 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:49:57,794 - INFO - [Librarian] Processed HOW16 in 31.42s
+2025-11-28 18:49:58,509 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:49:59,699 - INFO - [Librarian] Processed HOW16 in 33.32s
+2025-11-28 18:49:59,983 - INFO - [OCR] Winner: 'Rusted Relic' (Score 0.5). Total: 0.18s
+2025-11-28 18:50:00,590 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:50:01,538 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:50:08,668 - INFO - [OCR] Winner: 'ziz' (Score 0.3). Total: 0.16s
+2025-11-28 18:50:09,628 - INFO - [OCR] Winner: 'Frogmlte' (Score 0.5). Total: 0.14s
+2025-11-28 18:50:10,822 - INFO - [OCR] Winner: 'Frogmite' (Score 0.4). Total: 0.13s
+2025-11-28 18:50:11,845 - INFO - [Librarian] Processed NF7CI in 45.47s
+2025-11-28 18:50:12,004 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:50:12,029 - INFO - [Librarian] Processed NF7CI in 45.66s
+2025-11-28 18:50:12,518 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:50:13,651 - INFO - [OCR] Winner: 'Frosmite' (Score 0.4). Total: 0.17s
+2025-11-28 18:50:14,545 - INFO - [OCR] Winner: 'paj' (Score 0.3). Total: 0.13s
+2025-11-28 18:50:15,570 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:50:16,538 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:50:23,717 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:50:24,794 - INFO - [OCR] Winner: 'Fayer Husk' (Score 0.5). Total: 0.21s
+2025-11-28 18:50:25,241 - INFO - [Librarian] Processed D0HX3 in 58.87s
+2025-11-28 18:50:25,610 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:50:25,632 - INFO - [Librarian] Processed D0HX3 in 59.26s
+2025-11-28 18:50:26,568 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:50:27,623 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:50:28,704 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:50:29,632 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:50:37,827 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.15s
+2025-11-28 18:50:38,849 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:50:39,196 - INFO - [Librarian] Processed MG08C in 72.82s
+2025-11-28 18:50:39,902 - INFO - [OCR] Winner: 'Flight Spellbomb' (Score 0.5). Total: 0.16s
+2025-11-28 18:50:40,844 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:50:41,891 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:50:41,914 - INFO - [Librarian] Processed MG08C in 75.54s
+2025-11-28 18:50:42,893 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:50:43,836 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:50:44,888 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:50:47,908 - INFO - [OCR] Early Exit (Upright). Total: 0.09s
+2025-11-28 18:50:48,372 - INFO - [Librarian] Processed X8OSO in 82.00s
+2025-11-28 18:50:48,587 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:50:48,869 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:50:48,896 - INFO - [Librarian] Processed X8OSO in 82.52s
+2025-11-28 18:50:49,109 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:50:49,893 - INFO - [OCR] Early Exit (Upright). Total: 0.04s
+2025-11-28 18:50:49,919 - INFO - [Librarian] Processed X8OSO in 83.55s
+2025-11-28 18:50:50,089 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:50:50,616 - INFO - [Librarian] Processed 1W6TE in 84.24s
+2025-11-28 18:50:50,886 - INFO - [OCR] Early Exit (Upright). Total: 0.05s
+2025-11-28 18:50:50,964 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.08s
+2025-11-28 18:50:51,929 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:50:51,960 - INFO - [Librarian] Processed X8OSO in 85.59s
+2025-11-28 18:50:52,131 - INFO - [OCR] Early Exit (Upright). Total: 0.06s
+2025-11-28 18:50:52,704 - INFO - [Librarian] Processed 1W6TE in 86.33s
+2025-11-28 18:50:52,935 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.11s
+2025-11-28 18:50:53,039 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.10s
+2025-11-28 18:50:53,969 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:50:54,044 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:50:54,977 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:50:55,040 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:50:55,954 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:50:59,959 - INFO - [OCR] Early Exit (Upright). Total: 0.07s
+2025-11-28 18:51:00,308 - INFO - [Librarian] Processed KOISR in 93.93s
+2025-11-28 18:51:01,011 - INFO - [OCR] Winner: 's Ephar' Radiance' (Score 0.5). Total: 0.16s
+2025-11-28 18:51:01,962 - INFO - [OCR] Early Exit (Upright). Total: 0.08s
+2025-11-28 18:51:02,488 - INFO - [Librarian] Processed KOISR in 96.11s
+2025-11-28 18:51:03,145 - INFO - [OCR] Upright    | Time: 0.24s | Conf: 0.73 | Text: 'Ephans Railiance'
+2025-11-28 18:51:03,215 - INFO - [OCR] Winner: 'Ephans Railiance' (Score 0.6). Total: 0.31s
+2025-11-28 18:51:04,044 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.06s
+2025-11-28 18:51:05,013 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.07s
+2025-11-28 18:51:06,057 - INFO - [OCR] Winner: '' (Score 0.0). Total: 0.09s
+2025-11-28 18:51:08,592 - INFO - Starting Dashboard...
+2025-11-28 18:51:21,237 - INFO - Starting Dashboard...
+2025-11-28 18:53:20,220 - INFO - Starting Dashboard...
+2025-11-28 18:53:28,647 - INFO - Starting Dashboard...
+2025-11-28 18:53:49,917 - INFO - Starting Dashboard...

@@ -64,18 +64,18 @@ def test_librarian():
 
     print("\n--- Test 1: Full Ingestion ---")
     print("Asking API for 'Nyxborn Wolf'...")
-    librarian.add_task("Nyxborn Wolf", dummy_img)
+    librarian.add_task("000001","Nyxborn Wolf", dummy_img)
     time.sleep(3) # Wait for API
 
     print("\n--- Test 2: Typo Handling ---")
     print("Asking for 'Nyxbora Wolf'...")
-    librarian.add_task("Nyxbora Wolf", dummy_img)
+    librarian.add_task("000002","Nyxbora Wolf", dummy_img)
     time.sleep(1)
 
     print("\n--- Test 3: Negative Cache ---")
-    librarian.add_task("FakeCardName123", dummy_img)
+    librarian.add_task("000003","FakeCardName123", dummy_img)
     time.sleep(2)
-    librarian.add_task("FakeCardName123", dummy_img)
+    librarian.add_task("000003","FakeCardName123", dummy_img)
     time.sleep(0.5)
 
     librarian.stop()

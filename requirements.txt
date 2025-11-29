@@ -9,5 +9,8 @@ ultralytics
 PySide6
 numpy
 requests
-easyocr
 scipy
+matplotlib
+
+# --- OCR Engine ---
+easyocr

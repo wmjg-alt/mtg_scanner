@@ -2,34 +2,36 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.log
 venv/
 .env
+
+# IDE settings
 .idea/
 .vscode/
 
-# Database
-*.db
-*.sqlite3
+# Project Data (Local user data)
+data/inventory.db
+data/app.log
+data/stats.json
 
-# Heavy local models
-*.pt
-*.onnx
+data/scans/
+!data/scans/.gitkeep
+data/cache/
+!data/cache/.gitkeep
+
+# Downloaded Models 
+# We KEEP 'best.pt' but ignore generic downloads
+# drop .pt files except best.pt  in data/models/
 data/models/*.pt
+!data/models/best.pt
 
-# Local Media
-*.jpg
-*.png
-*.mp4
-*.csv
+# Training files in dataset
+dataset/
 
-# Ignore the runs folder
+# Training Runs (Heavy logs)
 runs/
 
-# Ignore the contents of dataset/formatted except for the .gitkeep file
-dataset/formatted/*
-!dataset/formatted/.gitkeep
-
-# Ignore the dataset/raw_images except for the .gitkeep file
-dataset/raw_images/*
-!dataset/raw_images/.gitkeep
-
+# Testing junk
+*.jpg
+*.png

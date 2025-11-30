@@ -5,14 +5,16 @@ import cv2
 from gui.widgets import ActiveCardWidget
 from PySide6.QtCore import Signal
 from gui.widgets import ActiveCardWidget
+from gui.ui_util import get_app_icon
+import config
 
 class MainWindow(QMainWindow):
     request_delete_signal = Signal(str) 
-
     def __init__(self):
         super().__init__()
         self.setWindowTitle("MTG Scanner - Live Intake")
-        self.resize(1280, 800)
+        self.setWindowIcon(get_app_icon()) # NEW
+        self.resize(config.DEFAULT_WINDOW_WIDTH, config.DEFAULT_WINDOW_HEIGHT)
         self.setStyleSheet("background-color: #121212; color: white;")
 
         self.central_widget = QWidget()
@@ -32,15 +34,19 @@ class MainWindow(QMainWindow):
         self.stats_label.setAlignment(Qt.AlignCenter)
         self.main_layout.addWidget(self.stats_label)
 
-        # 3. Active Cards
+        # 3. Active Cards Area
         self.scroll_area = QScrollArea()
         self.scroll_area.setWidgetResizable(True)
-        self.scroll_area.setFixedHeight(300)
+        # Increase height to accommodate larger widgets (config + scrollbar buffer)
+        self.scroll_area.setFixedHeight(config.WIDGET_HEIGHT + 40) 
         self.scroll_area.setStyleSheet("background-color: #1e1e1e; border: none;")
         
         self.cards_container = QWidget()
         self.cards_layout = QHBoxLayout(self.cards_container)
-        self.cards_layout.setAlignment(Qt.AlignLeft)
+        
+        # CENTER ALIGNMENT & SPACING
+        self.cards_layout.setAlignment(Qt.AlignCenter) 
+        self.cards_layout.setSpacing(20) # Nice gap between cards
         
         self.scroll_area.setWidget(self.cards_container)
         self.main_layout.addWidget(self.scroll_area)

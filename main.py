@@ -45,12 +45,12 @@ def run_dashboard():
     logging.info("Starting Dashboard...")
     dash = DashboardWindow()
     dash.show()
-    app.exec() # Blocks
+    app.exec() 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--scanner-only", action="store_true")
-    parser.add_argument("--report", action="store_true")
+    parser.add_argument("--scanner-only", action="store_true", help="Run only the scanner interface")
+    parser.add_argument("--report", action="store_true", help="Run only the dashboard report interface")
     args = parser.parse_args()
 
     app = QApplication(sys.argv)
@@ -62,7 +62,4 @@ if __name__ == "__main__":
     else:
         # Default: Scanner then Dashboard
         run_scanner()
-        # Reset app instance for next run if needed, or just open next window
-        # In PySide/Qt, app.exec() loops. When window closes, loop ends.
-        # We can just start the next one.
         run_dashboard()

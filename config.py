@@ -6,18 +6,22 @@ MODEL_PATH = os.path.join(BASE_DIR, "data", "models", "best.pt")
 DB_PATH = os.path.join(BASE_DIR, "data", "inventory.db")
 SCANS_DIR = os.path.join(BASE_DIR, "data", "scans")
 
+# --- WINDOW SETTINGS ---
+DEFAULT_WINDOW_WIDTH = 1280
+DEFAULT_WINDOW_HEIGHT = 800
+
 # --- OCR SETTINGS ---
 CROP_TITLE_RATIO = 0.15
 
 # --- CAMERA SETTINGS ---
 CAMERA_INDEX = 0
-REQUEST_WIDTH = 3840          
-REQUEST_HEIGHT = 2160         
+REQUEST_WIDTH = 3840
+REQUEST_HEIGHT = 2160   
 
 # --- DETECTION SETTINGS ---
 YOLO_MODEL = MODEL_PATH       
 YOLO_INPUT_SIZE = 640       
-CONFIDENCE_THRESHOLD = 0.7  
+CONFIDENCE_THRESHOLD = 0.65  
 DETECT_EVERY_N_FRAMES = 3
 
 # --- FILTERING RULES ---
@@ -37,7 +41,7 @@ DEBUG_COLOR_BORDER = (0, 0, 255)
 
 # --- TRACKING SETTINGS ---
 MAX_TRACKING_DISTANCE = 1000  
-MAX_DISAPPEARED_FRAMES = 25 
+MAX_DISAPPEARED_FRAMES = 10 
 MIN_FRAMES_TO_CONFIRM = 15    
 
 # --- STABILITY SETTINGS ---
@@ -52,3 +56,16 @@ API_RATE_LIMIT = 1.5      # Seconds between calls (Safe buffer)
 # --- LOGGING & STATS ---
 STATS_FILE = os.path.join(BASE_DIR, "data", "stats.json")
 LOG_FILE = os.path.join(BASE_DIR, "data", "app.log")
+
+# --- UI SETTINGS  ---
+WIDGET_WIDTH = 220
+WIDGET_HEIGHT = 320
+
+# Price Color Scale (Thresholds are minimums to qualify for that color)
+PRICE_ALERTS = {
+    "mythic":   {"min": 5.0, "color": "#ff8000"}, # Orange
+    "rare":     {"min": 1.0,  "color": "#e6b71c"}, # Gold
+    "uncommon": {"min": 0.33,  "color": "#80aee2"}, # Blue/Silver
+    "common":   {"min": 0.10,  "color": "#ffffff"}, # White
+    "bulk":     {"min": 0.00,  "color": "#444444B2"}  # Grey
+}

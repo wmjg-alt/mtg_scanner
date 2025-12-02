@@ -11,6 +11,7 @@ venv/
 .vscode/
 
 # Project Data (Local user data)
+# in data folder, ignore invetory.db, app.log, stats.json
 data/inventory.db
 data/app.log
 data/stats.json

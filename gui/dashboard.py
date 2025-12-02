@@ -9,6 +9,8 @@ import requests
 from data.db_manager import DBManager
 from gui.ui_util import get_app_icon
 import config
+from core.inspector import Inspector 
+from PySide6.QtCore import Signal, Slot
 
 class DashboardWindow(QMainWindow):
     def __init__(self):
@@ -25,6 +27,12 @@ class DashboardWindow(QMainWindow):
         """)
         
         self.db = DBManager()
+        self.inspector = Inspector() # Initialize Worker
+
+        # Connect Signals
+        self.inspector.inspection_complete_signal.connect(self.on_inspection_complete)
+        self.inspector.status_signal.connect(self.on_inspection_status)
+        self.inspector.start() # Start thread
         
         # Ensure cache directory exists
         self.cache_dir = os.path.join(config.BASE_DIR, "data", "cache")
@@ -310,7 +318,10 @@ class DashboardWindow(QMainWindow):
     def show_details(self, tracker_id):
         card = self.db.get_card_details(tracker_id)
         if not card: return
-        
+
+        # Store current tracker_id context for callbacks
+        self.current_detail_id = tracker_id
+
         page = QWidget()
         layout = QVBoxLayout(page)
         
@@ -319,7 +330,21 @@ class DashboardWindow(QMainWindow):
         back = QPushButton("← HOME")
         back.setFixedSize(100, 35)
         back.clicked.connect(self.refresh_home)
+
+        # --- RECHECK BUTTON ---
+        recheck_btn = QPushButton("🔍 Find Specific Print")
+        recheck_btn.setFixedSize(160, 35)
+        recheck_btn.setStyleSheet("""
+            background-color: #004d40; color: #b2dfdb; border: 1px solid #00695c; font-weight: bold;
+        """)
+        recheck_btn.setCursor(Qt.PointingHandCursor)
+        # Pass data to inspector
+        recheck_btn.clicked.connect(lambda: self.run_inspection(tracker_id, card['display_name'], card['local_image_path']))
         
+        # Store button ref to update text later
+        self.recheck_btn_ref = recheck_btn 
+        
+        # DELETE BUTTON ---
         del_btn = QPushButton("🗑️ Remove Card")
         del_btn.setFixedSize(120, 35)
         del_btn.setStyleSheet("background-color: #3a0000; color: #ffcccc; border: 1px solid #ff4444;")
@@ -327,6 +352,7 @@ class DashboardWindow(QMainWindow):
         
         nav.addWidget(back)
         nav.addStretch()
+        nav.addWidget(recheck_btn)
         nav.addWidget(del_btn)
         layout.addLayout(nav)
         
@@ -521,3 +547,39 @@ class DashboardWindow(QMainWindow):
         if reply == QMessageBox.Yes:
             self.db.delete_scan(tracker_id)
             self.refresh_home()
+    
+        # --- INSPECTOR HANDLERS ---
+    
+    def run_inspection(self, tracker_id, name, path):
+        """Trigger background worker"""
+        self.recheck_btn_ref.setText("⏳ Checking...")
+        self.recheck_btn_ref.setEnabled(False)
+        self.inspector.add_task(tracker_id, name, path)
+
+    @Slot(str, str)
+    def on_inspection_status(self, tracker_id, msg):
+        """Update button text with live status"""
+        # Only update if we are still looking at the same card
+        if hasattr(self, 'current_detail_id') and self.current_detail_id == tracker_id:
+            if hasattr(self, 'recheck_btn_ref'):
+                self.recheck_btn_ref.setText(f"⏳ {msg}")
+
+    @Slot(str, str, str)
+    def on_inspection_complete(self, tracker_id, set_code, price):
+        """Refresh page when done"""
+        # Reload the detail view to show new Set/Price/Image
+        if hasattr(self, 'current_detail_id') and self.current_detail_id == tracker_id:
+            self.show_details(tracker_id)
+            
+            # Show success message
+            msg = QMessageBox(self)
+            msg.setWindowTitle("Print Identified")
+            msg.setText(f"Updated to {set_code} (${price})")
+            msg.setStyleSheet("background-color: #2b2b2b; color: white;")
+            msg.exec()
+
+    # ... (closeEvent) ...
+    def closeEvent(self, event):
+        # Clean shutdown of worker thread
+        self.inspector.stop()
+        super().closeEvent(event)
